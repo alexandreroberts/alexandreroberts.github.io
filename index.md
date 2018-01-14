@@ -1,3 +1,9 @@
+---
+title: "Publications"
+author: "Alexandre M. Roberts"
+theme: jekyll-theme-minimal
+---
+
 # Alexandre M. Roberts
 
 ## Publications
