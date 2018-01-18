@@ -50,7 +50,7 @@ html, body {
 	line-height: 1.5em;
 }
 
-/*#write {
+#write {
 	overflow-x: auto;
     max-width: initial;
 	padding-left: calc(50% - 17em);
@@ -62,7 +62,7 @@ html, body {
  		padding-left: 1em;
     	padding-right: 1em;
  	}
-}*/
+}
 
 #write {
 	max-width: 40em;

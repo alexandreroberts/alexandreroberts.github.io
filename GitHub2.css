@@ -1,6 +1,6 @@
 body {
-  font-family: Helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-family: Georgia, "PT Serif", serif;
+  font-size: 15px;
   line-height: 1.6;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -283,7 +283,7 @@ sup {
 }
 @media screen and (min-width: 914px) {
     body {
-        width: 854px;
+        width: 500px;
         margin:0 auto;
     }
 }

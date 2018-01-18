@@ -54,9 +54,9 @@ Akademie Verlag, forthcoming).
 
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic 
 Conquest* (Cambridge University Press, 2016).  
-"[The Paths and Memories Tying Antioch to Its 
-Hinterland][Roberts-2017-JRA-review-of-de-giorgi]," *Journal of Roman 
-Archaeology* 30 (2017): 810–817.
+["The Paths and Memories Tying Antioch to Its 
+Hinterland,"][Roberts-2017-JRA-review-of-de-giorgi]
+*Journal of Roman Archaeology* 30 (2017): 810–817.
 
 Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 
 500–1000* (American University in Cairo Press, 2012).  
