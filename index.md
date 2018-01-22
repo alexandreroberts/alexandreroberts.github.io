@@ -68,9 +68,7 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD
 
 ### Other
 
-(with E.B. Liebgold) “The effects of perceived mortality risk on habitat 
-selection in a terrestrial salamander.”
-*Behavioral Ecology* 19.3 (2008): 621–626.
+(with E.B. Liebgold) “The effects of perceived mortality risk on habitat selection in a terrestrial salamander.” *Behavioral Ecology* 19.3 (2008): 621–626.
 
 -------
 
