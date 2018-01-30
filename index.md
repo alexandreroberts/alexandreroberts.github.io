@@ -34,7 +34,7 @@ edited by Carla Noce, Massimo Pampaloni, and Claudia Tavolieri,
 Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 
 2013): 279–303.
 
-"[Al-Mansur and the Critical Ambassador.][Roberts-2011-BEO60-Mansur]."
+"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur]."
 *Bulletin d’études orientales* 60 (2011): 145–160.
 
 
