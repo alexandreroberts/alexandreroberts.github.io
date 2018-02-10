@@ -2,8 +2,7 @@
 
 ## Publications
 
-[Roberts-2017-JRA-review-of-de-giorgi]: 
-https://doi.org/10.1017/S1047759400074845
+[Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
 
 [Roberts-2017-JAOS-Sabians]: https://doi.org/10.5281/zenodo.893166
 
@@ -11,11 +10,9 @@ https://doi.org/10.1017/S1047759400074845
 
 [Roberts-2011-BEO60-Mansur]: https://doi.org/10.5281/zenodo.893170
 
-[Roberts-2014-Marginalia-Red-Sea]: 
-http://marginalia.lareviewofbooks.org/in-meccas-backyard-by-alexandre-m-roberts/
+[Roberts-2014-Marginalia-Red-Sea]: http://marginalia.lareviewofbooks.org/in-meccas-backyard-by-alexandre-m-roberts/
 
-[BE-salamander-article]: 
-http://beheco.oxfordjournals.org/content/19/3/621
+[BE-salamander-article]: http://beheco.oxfordjournals.org/content/19/3/621
 
 ### Articles
 
