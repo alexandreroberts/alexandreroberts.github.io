@@ -1,6 +1,9 @@
-# Alexandre M. Roberts
+---
+title: Alexandre M. Roberts
+---
 
-## Publications
+
+# Publications
 
 [Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
 
@@ -14,7 +17,7 @@
 
 [BE-salamander-article]: http://beheco.oxfordjournals.org/content/19/3/621
 
-### Articles
+## Articles
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
 *Language Multiplicity in Byzantium and Beyond*, edited by Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (forthcoming).
@@ -35,13 +38,13 @@ Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale,
 *Bulletin d’études orientales* 60 (2011): 145–160.
 
 
-### Encyclopedia entries
+## Encyclopedia entries
 
 “Basileios von Emesa”; “Theophilos von Edessa.”
 *Lexikon byzantinischer Autoren*, ed. A. Riehle and M. Grünbart (Berlin: 
 Akademie Verlag, forthcoming).
 
-### Book Reviews
+## Book Reviews
 
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic 
 Conquest* (Cambridge University Press, 2016).
@@ -56,11 +59,11 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 > *Marginalia Review of Books*, April 29, 2014.
 
 
-### Other
+## Other
 
 (with E.B. Liebgold) "The effects of perceived mortality risk on habitat selection in a terrestrial salamander." *Behavioral Ecology* 19.3 (2008): 621–626.
 
 -------
 
-Updated January 2018.
+<small>[*Last updated January 2018.*]</small>
 
