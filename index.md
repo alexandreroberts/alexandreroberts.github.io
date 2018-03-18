@@ -2,6 +2,11 @@
 title: Alexandre M. Roberts
 ---
 
+Assistant Professor of Classics  
+University of Southern California  
+Los Angeles, CA  
+[ <robe941@usc.edu> ]
+
 
 # Publications
 
@@ -58,12 +63,7 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 > "[“In Mecca’s Backyard][Roberts-2014-Marginalia-Red-Sea],"
 > *Marginalia Review of Books*, April 29, 2014.
 
-
-## Other
-
-(with E.B. Liebgold) "The effects of perceived mortality risk on habitat selection in a terrestrial salamander." *Behavioral Ecology* 19.3 (2008): 621–626.
-
 -------
 
-<small>[*Last updated January 2018.*]</small>
+<small>[*Last updated March 2018.*]</small>
 
