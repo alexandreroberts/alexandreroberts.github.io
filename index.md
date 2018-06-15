@@ -2,7 +2,6 @@
 title: Alexandre M. Roberts
 ---
 
-
 # Publications
 
 [Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
@@ -55,7 +54,7 @@ Conquest* (Cambridge University Press, 2016).
 
 Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (American University in Cairo Press, 2012).  
 
-> "[“In Mecca’s Backyard][Roberts-2014-Marginalia-Red-Sea],"
+> "[In Mecca’s Backyard][Roberts-2014-Marginalia-Red-Sea],"
 > *Marginalia Review of Books*, April 29, 2014.
 
 -------
