@@ -1,6 +1,11 @@
 ---
-title: Alexandre M. Roberts
+title: "Alexandre M. Roberts"
 ---
+
+Assistant Professor of Classics  
+University of Southern California  
+Los Angeles, CA  
+[ [faculty page](http://dornsife.usc.edu/cf/clas/clas_faculty_display.cfm?Person_ID=1081060) ]
 
 # Publications
 
@@ -17,6 +22,15 @@ title: Alexandre M. Roberts
 [BE-salamander-article]: http://beheco.oxfordjournals.org/content/19/3/621
 
 ## Articles
+
+"Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
+*The Diagram Paradigm: Byzantium, the Islamic World, and the Latin West*,
+edited by 
+Jeffrey Hamburger,
+David Roxburgh,
+and Linda Safran
+(Washington, DC: Dumbarton Oaks,
+forthcoming).
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
 *Language Multiplicity in Byzantium and Beyond*, edited by Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (forthcoming).
@@ -59,5 +73,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated March 2018.*]</small>
+<small>[*Last updated July 2018.*]</small>
 
