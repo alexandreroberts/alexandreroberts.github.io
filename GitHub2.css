@@ -1,10 +1,10 @@
 body {
   font-family: Georgia, "PT Serif", serif;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.6;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: white;
+  background-color: white; /*#FFF8F0;*/
   padding: 30px; }
 
 body > *:first-child {
@@ -283,7 +283,7 @@ sup {
 }
 @media screen and (min-width: 914px) {
     body {
-        width: 500px;
+        width: 600px;
         margin:0 auto;
     }
 }

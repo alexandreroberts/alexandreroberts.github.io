@@ -6,7 +6,8 @@ Assistant Professor of Classics
 University of Southern California  
 3560 Watt Way, PED 132C  
 Los Angeles, California  
-[ [faculty page](http://dornsife.usc.edu/cf/clas/clas_faculty_display.cfm?Person_ID=1081060) ]
+[ [faculty page](http://dornsife.usc.edu/cf/clas/clas_faculty_display.cfm?Person_ID=1081060) ]  
+[ [zenodo](https://zenodo.org/search?page=1&size=20&q=creators.name:%22alexandre%20m.%20roberts%22) ]
 
 # Publications
 
