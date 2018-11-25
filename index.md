@@ -36,7 +36,7 @@ and Linda Safran
 forthcoming).
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
-*Language Multiplicity in Byzantium and Beyond*, edited by Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (forthcoming).
+*Language Multiplicity in Byzantium and Beyond*, edited by Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
 
 "A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
 *Patristic Literature in Arabic Translation*, edited by Barbara Roggema, Gregor Schwarb, and Alexander Treiger (forthcoming).
