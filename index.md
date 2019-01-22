@@ -8,7 +8,7 @@ University of Southern California
 Los Angeles, California  
 [ [faculty page](http://dornsife.usc.edu/cf/clas/clas_faculty_display.cfm?Person_ID=1081060) ]  
 [ [hcommons](https://hcommons.org/members/amroberts/) ]  
-[ [zenodo](https://zenodo.org/search?page=1&size=20&q=creators.name:%22alexandre%20m.%20roberts%22) ]
+[ [zenodo](https://zenodo.org/communities/amroberts/) ]
 
 # Publications
 
