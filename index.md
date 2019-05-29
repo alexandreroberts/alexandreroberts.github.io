@@ -45,7 +45,7 @@ forthcoming).
 *Language Multiplicity in Byzantium and Beyond*, edited by Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
 
 "A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
-*Patristic Literature in Arabic Translation*, edited by Barbara Roggema, Gregor Schwarb, and Alexander Treiger (forthcoming).
+*Patristic Literature in Arabic Translations*, edited by Barbara Roggema and Alexander Treiger (forthcoming).
 
 "[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians]."
 *Journal of the American Oriental Society* 137.2 (2017): 253–277.
