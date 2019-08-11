@@ -29,34 +29,44 @@ Los Angeles, California
 
 ## Articles
 
-"Framing a Middle Byzantine Alchemical Codex."
+"Framing a Middle Byzantine Alchemical Codex,"
 *Dumbarton Oaks Papers* 73 (forthcoming 2019).
 
-"Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
-*The Diagram Paradigm: Byzantium, the Islamic World, and the Latin West*,
-edited by 
+"Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus,"
+in
+*The Diagram Paradigm: Cross-Cultural Approaches*,
+ed.
+Linda Safran
 Jeffrey Hamburger,
-David Roxburgh,
-and Linda Safran
+and David Roxburgh
 (Washington, DC: Dumbarton Oaks,
-forthcoming).
+forthcoming 2021).
 
-"Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
-*Language Multiplicity in Byzantium and Beyond*, edited by Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
+"Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics,"
+in
+*Language Multiplicity in Byzantium and Beyond*, 
+ed. 
+Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou 
+(Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
 
-"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
-*Patristic Literature in Arabic Translations*, edited by Barbara Roggema and Alexander Treiger (forthcoming).
+"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch,"
+in
+*Patristic Literature in Arabic Translations*, 
+ed. Barbara Roggema and Alexander Treiger 
+(Leiden: Brill,
+forthcoming 2019).
 
-"[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians]."
+"[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians],"
 *Journal of the American Oriental Society* 137.2 (2017): 253–277.
 
-"[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees.’][Roberts-2013-OCA-Crossing-Paths]"
+"[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees,’][Roberts-2013-OCA-Crossing-Paths]"
+in
 *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, 
-edited by Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, 
+ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, 
 Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 
-2013): 279–303.
+2013), 279–303.
 
-"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur]."
+"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur],"
 *Bulletin d’études orientales* 60 (2011): 145–160.
 
 
@@ -82,5 +92,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated March 2019.*]</small>
+<small>[*Last updated August 2019.*]</small>
 
