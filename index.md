@@ -27,7 +27,7 @@ Los Angeles, California
 
 [BE-salamander-article]: http://beheco.oxfordjournals.org/content/19/3/621
 
-## Articles
+## Articles and Book Chapters
 
 "Framing a Middle Byzantine Alchemical Codex,"
 *Dumbarton Oaks Papers* 73 (forthcoming 2019).
@@ -52,7 +52,8 @@ Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou
 "A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch,"
 in
 *Patristic Literature in Arabic Translations*, 
-ed. Barbara Roggema and Alexander Treiger 
+ed. Barbara Roggema and Alexander Treiger,
+Arabic Christianity 2 
 (Leiden: Brill,
 forthcoming 2019).
 
