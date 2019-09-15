@@ -15,6 +15,8 @@ Los Angeles, California
 
 # Publications
 
+[AbF-book]: https://www.ucpress.edu/book/9780520343498/
+
 [Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
 
 [Roberts-2017-JAOS-Sabians]: https://doi.org/10.5281/zenodo.893166
@@ -26,6 +28,10 @@ Los Angeles, California
 [Roberts-2014-Marginalia-Red-Sea]: http://marginalia.lareviewofbooks.org/in-meccas-backyard-by-alexandre-m-roberts/
 
 [BE-salamander-article]: http://beheco.oxfordjournals.org/content/19/3/621
+
+## Book
+
+[*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, forthcoming June 2020).
 
 ## Articles and Book Chapters
 
