@@ -9,9 +9,8 @@ Los Angeles, California
 
 [ [faculty page](http://dornsife.usc.edu/cf/clas/clas_faculty_display.cfm?Person_ID=1081060) ]  
 [ [hcommons](https://hcommons.org/members/amroberts/) ]  
-[ [zenodo](https://zenodo.org/communities/amroberts/search?page=1&size=20) ]
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6648-5392" href="https://orcid.org/0000-0002-6648-5392" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid</a></div>
+[ [zenodo](https://zenodo.org/communities/amroberts/search?page=1&size=20) ]  
+<div itemscope itemtype="https://schema.org/Person">[ <a itemprop="sameAs" content="https://orcid.org/0000-0002-6648-5392" href="https://orcid.org/0000-0002-6648-5392" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.7em;margin-right:.5em;" alt="ORCID iD icon">orcid</a> ]</div>
 
 # Publications
 
