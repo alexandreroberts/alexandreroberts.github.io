@@ -16,6 +16,8 @@ Los Angeles, California
 
 [AbF-book]: https://www.ucpress.edu/book/9780520343498/
 
+[Roberts-2020-Re-Translation]: https://doi.org/10.1163/9789004415041_009
+
 [Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
 
 [Roberts-2017-JAOS-Sabians]: https://doi.org/10.5281/zenodo.893166
@@ -54,13 +56,13 @@ ed.
 Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou 
 (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
 
-"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch,"
+"[A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch][Roberts-2020-Re-Translation],"
+chapter 7
 in
 *Patristic Literature in Arabic Translations*, 
 ed. Barbara Roggema and Alexander Treiger,
-Arabic Christianity 2 
-(Leiden: Brill,
-forthcoming 2019).
+Arabic Christianity: Texts and Studies 2 
+(Leiden: Brill, 2020), 198--240.
 
 "[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians],"
 *Journal of the American Oriental Society* 137.2 (2017): 253–277.
