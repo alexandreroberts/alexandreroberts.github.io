@@ -62,7 +62,7 @@ in
 *Patristic Literature in Arabic Translations*, 
 ed. Barbara Roggema and Alexander Treiger,
 Arabic Christianity: Texts and Studies 2 
-(Leiden: Brill, 2020), 198--240.
+(Leiden: Brill, 2019), 198--240.
 
 "[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians],"
 *Journal of the American Oriental Society* 137.2 (2017): 253–277.
