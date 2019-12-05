@@ -43,9 +43,10 @@ Los Angeles, California
 in
 *The Diagram Paradigm: Cross-Cultural Approaches*,
 ed.
-Linda Safran
 Jeffrey Hamburger,
-and David Roxburgh
+David Roxburgh,
+and
+Linda Safran
 (Washington, DC: Dumbarton Oaks,
 forthcoming 2021).
 
