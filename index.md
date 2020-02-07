@@ -22,9 +22,13 @@ Los Angeles, California
 
 [Roberts-2017-JAOS-Sabians]: https://doi.org/10.5281/zenodo.893166
 
+[Roberts-2017-JAOS-Sabians-pub]: https://www.jstor.org/stable/10.7817/jameroriesoci.137.2.0253
+
 [Roberts-2013-OCA-Crossing-Paths]: https://doi.org/10.5281/zenodo.893168
 
 [Roberts-2011-BEO60-Mansur]: https://doi.org/10.5281/zenodo.893170
+
+[Roberts-2011-BEO60-Mansur-pub]: https://doi.org/10.4000/beo.406
 
 [Roberts-2014-Marginalia-Red-Sea]: http://marginalia.lareviewofbooks.org/in-meccas-backyard-by-alexandre-m-roberts/
 
@@ -65,18 +69,18 @@ ed. Barbara Roggema and Alexander Treiger,
 Arabic Christianity: Texts and Studies 2 
 (Leiden: Brill, 2019), 198--240.
 
-"[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians],"
-*Journal of the American Oriental Society* 137.2 (2017): 253–277.
+"[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians-pub],"
+*Journal of the American Oriental Society* 137.2 (2017): 253–277. [[pdf][Roberts-2017-JAOS-Sabians]]
 
 "[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees,’][Roberts-2013-OCA-Crossing-Paths]"
 in
 *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, 
 ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, 
 Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 
-2013), 279–303.
+2013), 279–303. [[pdf][Roberts-2013-OCA-Crossing-Paths]]
 
-"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur],"
-*Bulletin d’études orientales* 60 (2011): 145–160.
+"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur-pub],"
+*Bulletin d’études orientales* 60 (2011): 145–160. [[pdf][Roberts-2011-BEO60-Mansur]]
 
 
 ## Encyclopedia entries
@@ -101,5 +105,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated October 2019.*]</small>
+<small>[*Last updated February 2020.*]</small>
 
