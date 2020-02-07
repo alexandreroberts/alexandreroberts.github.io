@@ -26,6 +26,8 @@ Los Angeles, California
 
 [Roberts-2013-OCA-Crossing-Paths]: https://doi.org/10.5281/zenodo.893168
 
+[Roberts-2013-OCA-Crossing-Paths-pub]: http://www.worldcat.org/oclc/849906618
+
 [Roberts-2011-BEO60-Mansur]: https://doi.org/10.5281/zenodo.893170
 
 [Roberts-2011-BEO60-Mansur-pub]: https://doi.org/10.4000/beo.406
@@ -72,7 +74,7 @@ Arabic Christianity: Texts and Studies 2
 "[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians-pub],"
 *Journal of the American Oriental Society* 137.2 (2017): 253–277. [[pdf][Roberts-2017-JAOS-Sabians]]
 
-"[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees,’][Roberts-2013-OCA-Crossing-Paths]"
+"[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees,’][Roberts-2013-OCA-Crossing-Paths-pub]"
 in
 *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, 
 ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, 
