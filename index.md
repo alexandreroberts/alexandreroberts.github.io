@@ -43,7 +43,7 @@ Los Angeles, California
 ## Articles and Book Chapters
 
 "Framing a Middle Byzantine Alchemical Codex,"
-*Dumbarton Oaks Papers* 73 (forthcoming 2019).
+*Dumbarton Oaks Papers* 73 (forthcoming 2020).
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus,"
 in
