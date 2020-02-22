@@ -4,7 +4,6 @@ title: "Alexandre M. Roberts"
 
 Assistant Professor of Classics  
 University of Southern California  
-3560 Watt Way, PED 132C  
 Los Angeles, California  
 
 [ [faculty page](http://dornsife.usc.edu/cf/clas/clas_faculty_display.cfm?Person_ID=1081060) ]  
@@ -42,8 +41,7 @@ Los Angeles, California
 
 ## Articles and Book Chapters
 
-"Framing a Middle Byzantine Alchemical Codex,"
-*Dumbarton Oaks Papers* 73 (forthcoming 2020).
+### forthcoming
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus,"
 in
@@ -56,6 +54,9 @@ Linda Safran
 (Washington, DC: Dumbarton Oaks,
 forthcoming 2021).
 
+"Framing a Middle Byzantine Alchemical Codex,"
+*Dumbarton Oaks Papers* 73 (forthcoming 2020).
+
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics,"
 in
 *Language Multiplicity in Byzantium and Beyond*, 
@@ -63,16 +64,23 @@ ed.
 Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou 
 (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
 
+### 2020 ###
+
 "[A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch][Roberts-2020-Re-Translation],"
 chapter 7
 in
 *Patristic Literature in Arabic Translations*, 
 ed. Barbara Roggema and Alexander Treiger,
 Arabic Christianity: Texts and Studies 2 
-(Leiden: Brill, 2019), 198--240.
+(Leiden: Brill, 2020), 198--240.
+
+### 2017 ###
 
 "[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians-pub],"
 *Journal of the American Oriental Society* 137.2 (2017): 253–277. [[pdf][Roberts-2017-JAOS-Sabians]]
+
+
+### 2013
 
 "[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees,’][Roberts-2013-OCA-Crossing-Paths-pub]"
 in
@@ -80,6 +88,9 @@ in
 ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, 
 Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 
 2013), 279–303. [[pdf][Roberts-2013-OCA-Crossing-Paths]]
+
+
+### 2011
 
 "[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur-pub],"
 *Bulletin d’études orientales* 60 (2011): 145–160. [[pdf][Roberts-2011-BEO60-Mansur]]
