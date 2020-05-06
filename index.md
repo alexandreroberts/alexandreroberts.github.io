@@ -15,6 +15,8 @@ Los Angeles, California
 
 [AbF-book]: https://www.ucpress.edu/book/9780520343498/
 
+[Roberts-DOP-73-pub]: ...
+
 [Roberts-2020-Re-Translation]: https://doi.org/10.1163/9789004415041_009
 
 [Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
@@ -43,6 +45,9 @@ Los Angeles, California
 
 ### forthcoming
 
+"Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University,"
+*Philological Encounters* (forthcoming).
+
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus,"
 in
 *The Diagram Paradigm: Cross-Cultural Approaches*,
@@ -53,9 +58,6 @@ and
 Linda Safran
 (Washington, DC: Dumbarton Oaks,
 forthcoming 2021).
-
-"Framing a Middle Byzantine Alchemical Codex,"
-*Dumbarton Oaks Papers* 73 (forthcoming 2020).
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics,"
 in
@@ -73,6 +75,11 @@ in
 ed. Barbara Roggema and Alexander Treiger,
 Arabic Christianity: Texts and Studies 2 
 (Leiden: Brill, 2020), 198--240.
+
+### 2019 ###
+
+"Framing a Middle Byzantine Alchemical Codex,"
+*Dumbarton Oaks Papers* 73 (2019; published May [2020](https://www.hup.harvard.edu/catalog.php?isbn=9780884024637)): 69--102.
 
 ### 2017 ###
 
@@ -118,5 +125,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated February 2020.*]</small>
+<small>[*Last updated May 2020.*]</small>
 
