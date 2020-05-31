@@ -15,8 +15,6 @@ Los Angeles, California
 
 [AbF-book]: https://www.ucpress.edu/book/9780520343498/
 
-[Roberts-DOP-73-pub]: ...
-
 [Roberts-2020-Re-Translation]: https://doi.org/10.1163/9789004415041_009
 
 [Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
@@ -45,8 +43,11 @@ Los Angeles, California
 
 ### forthcoming
 
+"Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic,"
+*Journal of Near Eastern Studies* (forthcoming).
+
 "Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University,"
-*Philological Encounters* (forthcoming).
+*Philological Encounters* 5.2 (forthcoming 2020).
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus,"
 in
@@ -111,8 +112,7 @@ Akademie Verlag, forthcoming).
 
 ## Book Reviews
 
-Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic 
-Conquest* (Cambridge University Press, 2016).
+Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest* (Cambridge University Press, 2016).
 
 > "[The Paths and Memories Tying Antioch to Its 
 > Hinterland][Roberts-2017-JRA-review-of-de-giorgi],"
