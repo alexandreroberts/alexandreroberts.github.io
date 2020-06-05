@@ -44,10 +44,10 @@ Los Angeles, California
 ### forthcoming
 
 "A Greek Alchemical Epigram in Its Middle Byzantine Context,'' 
-*Journal of the Warburg and Courtauld Institutes* (forthcoming).
+*Journal of the Warburg and Courtauld Institutes* (forthcoming 2021).
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic,"
-*Journal of Near Eastern Studies* (forthcoming).
+*Journal of Near Eastern Studies* (forthcoming 2021).
 
 "Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University,"
 *Philological Encounters* 5.2 (forthcoming 2020).
