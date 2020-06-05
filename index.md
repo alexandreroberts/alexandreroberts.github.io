@@ -43,7 +43,7 @@ Los Angeles, California
 
 ### forthcoming
 
-"A Greek Alchemical Epigram in Its Middle Byzantine Context,'' 
+“A Greek Alchemical Epigram in Its Middle Byzantine Context,'' 
 *Journal of the Warburg and Courtauld Institutes* (forthcoming 2021).
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic,"
