@@ -15,17 +15,11 @@ Los Angeles, California
 
 [AbF-book]: https://www.ucpress.edu/book/9780520343498/
 
-[Roberts-2020-Re-Translation]: https://doi.org/10.1163/9789004415041_009
-
 [Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
 
 [Roberts-2017-JAOS-Sabians]: https://doi.org/10.5281/zenodo.893166
 
-[Roberts-2017-JAOS-Sabians-pub]: https://www.jstor.org/stable/10.7817/jameroriesoci.137.2.0253
-
 [Roberts-2013-OCA-Crossing-Paths]: https://doi.org/10.5281/zenodo.893168
-
-[Roberts-2013-OCA-Crossing-Paths-pub]: http://www.worldcat.org/oclc/849906618
 
 [Roberts-2011-BEO60-Mansur]: https://doi.org/10.5281/zenodo.893170
 
@@ -72,7 +66,7 @@ Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou
 
 ### 2020 ###
 
-"[A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch][Roberts-2020-Re-Translation],"
+"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch,"
 chapter 7
 in
 *Patristic Literature in Arabic Translations*, 
@@ -83,28 +77,28 @@ Arabic Christianity: Texts and Studies 2
 ### 2019 ###
 
 "Framing a Middle Byzantine Alchemical Codex,"
-*Dumbarton Oaks Papers* 73 (2019; published May [2020](https://www.hup.harvard.edu/catalog.php?isbn=9780884024637)): 69--102.
+*Dumbarton Oaks Papers* 73 (2019): 69--102.
 
 ### 2017 ###
 
-"[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians-pub],"
-*Journal of the American Oriental Society* 137.2 (2017): 253–277. [[pdf][Roberts-2017-JAOS-Sabians]]
+"[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians],"
+*Journal of the American Oriental Society* 137.2 (2017): 253–277.
 
 
 ### 2013
 
-"[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees,’][Roberts-2013-OCA-Crossing-Paths-pub]"
+"[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees,’][Roberts-2013-OCA-Crossing-Paths]"
 in
 *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, 
 ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, 
 Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 
-2013), 279–303. [[pdf][Roberts-2013-OCA-Crossing-Paths]]
+2013), 279–303.
 
 
 ### 2011
 
-"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur-pub],"
-*Bulletin d’études orientales* 60 (2011): 145–160. [[pdf][Roberts-2011-BEO60-Mansur]]
+"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur],"
+*Bulletin d’études orientales* [60][Roberts-2011-BEO60-Mansur-pub] (2011): 145–160.
 
 
 ## Encyclopedia entries
