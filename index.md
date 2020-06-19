@@ -31,7 +31,7 @@ Los Angeles, California
 
 ## Book
 
-[*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, forthcoming June 2020).
+[*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, 2020).
 
 ## Articles and Book Chapters
 
