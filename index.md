@@ -15,6 +15,8 @@ Los Angeles, California
 
 [AbF-book]: https://www.ucpress.edu/book/9780520343498/
 
+[Roberts-2019-DOP-Framing]: https://doi.org/10.5281/zenodo.3797823
+
 [Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
 
 [Roberts-2017-JAOS-Sabians]: https://doi.org/10.5281/zenodo.893166
@@ -76,7 +78,7 @@ Arabic Christianity: Texts and Studies 2
 
 ### 2019 ###
 
-"Framing a Middle Byzantine Alchemical Codex,"
+"[Framing a Middle Byzantine Alchemical Codex][Roberts-2019-DOP-Framing],"
 *Dumbarton Oaks Papers* 73 (2019): 69--102.
 
 ### 2017 ###
@@ -122,5 +124,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated May 2020.*]</small>
+<small>[*Last updated July 2020.*]</small>
 
