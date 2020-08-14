@@ -46,7 +46,7 @@ Los Angeles, California
 *Journal of Near Eastern Studies* (forthcoming 2021).
 
 "Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University,"
-*Philological Encounters* 5.2 (forthcoming 2020).
+*Philological Encounters* 5.3 (forthcoming 2020).
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus,"
 in
