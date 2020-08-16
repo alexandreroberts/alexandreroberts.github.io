@@ -113,5 +113,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated July 2020.*]</small>
+<small>[*Last updated August 2020.*]</small>
 
