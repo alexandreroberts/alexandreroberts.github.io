@@ -39,75 +39,64 @@ Los Angeles, California
 
 ### forthcoming
 
-“A Greek Alchemical Epigram in Its Middle Byzantine Context,'' 
-*Journal of the Warburg and Courtauld Institutes* (forthcoming 2021).
+“A Greek Alchemical Epigram in Its Middle Byzantine Context.'' 
 
-"Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic,"
-*Journal of Near Eastern Studies* (forthcoming 2021).
+> *Journal of the Warburg and Courtauld Institutes* (forthcoming 2021).
 
-"Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University,"
-*Philological Encounters* 5.3 (forthcoming 2020).
+"Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
-"Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus,"
-in
-*The Diagram Paradigm: Cross-Cultural Approaches*,
-ed.
-Jeffrey Hamburger,
-David Roxburgh,
-and
-Linda Safran
-(Washington, DC: Dumbarton Oaks,
-forthcoming 2021).
+> *Journal of Near Eastern Studies* (forthcoming 2021).
 
-"Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics,"
-in
-*Language Multiplicity in Byzantium and Beyond*, 
-ed. 
-Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou 
-(Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
+"Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
+
+> *Philological Encounters* 5.3 (forthcoming 2020).
+
+"Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
+
+> In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2021).
+
+"Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
+
+> In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
 
 ### 2020 ###
 
-"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch,"
-chapter 7
-in
-*Patristic Literature in Arabic Translations*, 
-ed. Barbara Roggema and Alexander Treiger,
-Arabic Christianity: Texts and Studies 2 
-(Leiden: Brill, 2020), 198--240.
+"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
+
+> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020), 198--240.
 
 ### 2019 ###
 
-"[Framing a Middle Byzantine Alchemical Codex][Roberts-2019-DOP-Framing],"
-*Dumbarton Oaks Papers* 73 (2019): 69--102.
+"[Framing a Middle Byzantine Alchemical Codex][Roberts-2019-DOP-Framing]."
+
+> *Dumbarton Oaks Papers* 73 (2019): 69--102.
 
 ### 2017 ###
 
-"[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians],"
-*Journal of the American Oriental Society* 137.2 (2017): 253–277.
+"[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians]."
+
+> *Journal of the American Oriental Society* 137.2 (2017): 253–277.
 
 
 ### 2013
 
-"[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees,’][Roberts-2013-OCA-Crossing-Paths]"
-in
-*Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, 
-ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, 
-Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 
-2013), 279–303.
+"[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees.’][Roberts-2013-OCA-Crossing-Paths]"
+
+> In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303.
 
 
 ### 2011
 
-"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur],"
-*Bulletin d’études orientales* [60][Roberts-2011-BEO60-Mansur-pub] (2011): 145–160.
+"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur]."
+
+> *Bulletin d’études orientales* [60][Roberts-2011-BEO60-Mansur-pub] (2011): 145–160.
 
 
 ## Encyclopedia entries
 
 “Basileios von Emesa”; “Theophilos von Edessa.”
-*Lexikon byzantinischer Autoren*, ed. A. Riehle and M. Grünbart (Berlin: 
-Akademie Verlag, forthcoming).
+
+> *Lexikon byzantinischer Autoren*, ed. A. Riehle and M. Grünbart (Berlin: Akademie Verlag, forthcoming).
 
 ## Book Reviews
 
