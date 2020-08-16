@@ -6,7 +6,7 @@ all : $(HTMLS)
 
 # Make HTMLs
 %.html : %.md
-	pandoc --standalone --email-obfuscation=javascript -c GitHub2.css $< -o $@ 
+	pandoc --standalone --email-obfuscation=javascript -c pubwebsite.css $< -o $@ 
 #	md2html $< -o $@
 
 # Remove all PDF outputs
