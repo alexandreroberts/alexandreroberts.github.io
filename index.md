@@ -15,11 +15,17 @@ Los Angeles, California
 
 [AbF-book]: https://www.ucpress.edu/book/9780520343498/
 
+[Roberts-2020-PHEN-pub]: https://doi.org/10.1163/24519197-BJA10007
+
+[Roberts-2020-Retranslation-pub]: https://doi.org/10.1163/9789004415041_009
+
 [Roberts-2019-DOP-Framing]: https://doi.org/10.5281/zenodo.3797823
 
-[Roberts-2017-JRA-review-of-de-giorgi]: https://doi.org/10.1017/S1047759400074845
+[Roberts-2017-JRA-review-of-de-giorgi-pub]: https://doi.org/10.1017/S1047759400074845
 
 [Roberts-2017-JAOS-Sabians]: https://doi.org/10.5281/zenodo.893166
+
+[Roberts-2017-JAOS-Sabians-pub]: https://www.jstor.org/stable/10.7817/jameroriesoci.137.2.0253
 
 [Roberts-2013-OCA-Crossing-Paths]: https://doi.org/10.5281/zenodo.893168
 
@@ -47,10 +53,6 @@ Los Angeles, California
 
 > *Journal of Near Eastern Studies* (forthcoming 2021).
 
-"Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
-
-> *Philological Encounters* 5.3 (forthcoming 2020).
-
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
 > In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2021).
@@ -61,35 +63,39 @@ Los Angeles, California
 
 ### 2020 ###
 
+"Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
+
+> *Philological Encounters* 5.3 (2020). [[pub][Roberts-2020-PHEN-pub]]
+
 "A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
 
-> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020), 198--240.
+> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020), 198--240. [[pub][Roberts-2020-Retranslation-pub]]
 
 ### 2019 ###
 
-"[Framing a Middle Byzantine Alchemical Codex][Roberts-2019-DOP-Framing]."
+"Framing a Middle Byzantine Alchemical Codex."
 
-> *Dumbarton Oaks Papers* 73 (2019): 69--102.
+> *Dumbarton Oaks Papers* 73 (2019): 69--102. [[pdf][Roberts-2019-DOP-Framing]]
 
 ### 2017 ###
 
-"[Being a Sabian at Court in Tenth-Century Baghdad][Roberts-2017-JAOS-Sabians]."
+"Being a Sabian at Court in Tenth-Century Baghdad."
 
-> *Journal of the American Oriental Society* 137.2 (2017): 253–277.
+> *Journal of the American Oriental Society* 137.2 (2017): 253–277. [[pub][Roberts-2017-JAOS-Sabians-pub]|[pdf][Roberts-2017-JAOS-Sabians]]
 
 
 ### 2013
 
-"[The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees.’][Roberts-2013-OCA-Crossing-Paths]"
+"The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees.’"
 
-> In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303.
+> In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303. [[pdf][Roberts-2013-OCA-Crossing-Paths]]
 
 
 ### 2011
 
-"[Al-Mansur and the Critical Ambassador][Roberts-2011-BEO60-Mansur]."
+"Al-Mansur and the Critical Ambassador."
 
-> *Bulletin d’études orientales* [60][Roberts-2011-BEO60-Mansur-pub] (2011): 145–160.
+> *Bulletin d’études orientales* 60 (2011): 145–160. [[pub][Roberts-2011-BEO60-Mansur-pub]|[pdf][Roberts-2011-BEO60-Mansur]]
 
 
 ## Encyclopedia entries
@@ -102,16 +108,16 @@ Los Angeles, California
 
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest* (Cambridge University Press, 2016).
 
-> "[The Paths and Memories Tying Antioch to Its 
-> Hinterland][Roberts-2017-JRA-review-of-de-giorgi],"
-> *Journal of Roman Archaeology* 30 (2017): 810–817.
+> "The Paths and Memories Tying Antioch to Its 
+> Hinterland,"
+> *Journal of Roman Archaeology* 30 (2017): 810–817. [[pub][Roberts-2017-JRA-review-of-de-giorgi-pub]]
 
 Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (American University in Cairo Press, 2012).  
 
-> "[In Mecca’s Backyard][Roberts-2014-Marginalia-Red-Sea],"
-> *Marginalia Review of Books*, April 29, 2014.
+> "In Mecca’s Backyard,"
+> *Marginalia Review of Books*, April 29, 2014. [[pub][Roberts-2014-Marginalia-Red-Sea]]
 
 -------
 
-<small>[*Last updated August 2020.*]</small>
+<small>[*Last updated September 2020.*]</small>
 
