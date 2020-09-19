@@ -49,17 +49,21 @@ Los Angeles, California
 
 > *Journal of the Warburg and Courtauld Institutes* (forthcoming 2021).
 
+
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
 > *Journal of Near Eastern Studies* (forthcoming 2021).
+
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
 > In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2021).
 
+
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
 
 > In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
+
 
 ### 2020 ###
 
@@ -67,15 +71,18 @@ Los Angeles, California
 
 > *Philological Encounters* 5.3 (2020). [[pub][Roberts-2020-PHEN-pub]]
 
+
 "A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
 
 > Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020), 198--240. [[pub][Roberts-2020-Retranslation-pub]]
+
 
 ### 2019 ###
 
 "Framing a Middle Byzantine Alchemical Codex."
 
 > *Dumbarton Oaks Papers* 73 (2019): 69--102. [[pdf][Roberts-2019-DOP-Framing]]
+
 
 ### 2017 ###
 
@@ -104,6 +111,7 @@ Los Angeles, California
 
 > *Lexikon byzantinischer Autoren*, ed. A. Riehle and M. Grünbart (Berlin: Akademie Verlag, forthcoming).
 
+
 ## Book Reviews
 
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest* (Cambridge University Press, 2016).
@@ -111,6 +119,7 @@ Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest
 > "The Paths and Memories Tying Antioch to Its 
 > Hinterland,"
 > *Journal of Roman Archaeology* 30 (2017): 810–817. [[pub][Roberts-2017-JRA-review-of-de-giorgi-pub]]
+
 
 Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (American University in Cairo Press, 2012).  
 
