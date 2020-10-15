@@ -124,7 +124,7 @@ Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest
 Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (American University in Cairo Press, 2012).  
 
 > "In Mecca’s Backyard,"
-> *Marginalia Review of Books*, April 29, 2014. [[pub][Roberts-2014-Marginalia-Red-Sea]]
+> *Marginalia Review of Books*, April 29, 2014. [[open][Roberts-2014-Marginalia-Red-Sea]]
 
 -------
 
