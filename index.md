@@ -17,6 +17,8 @@ Los Angeles, California
 
 [Roberts-2020-PHEN-pub]: https://doi.org/10.1163/24519197-BJA10007
 
+[Roberts-2020-Retranslation]: https://zenodo.org/record/3476911
+
 [Roberts-2020-Retranslation-pub]: https://doi.org/10.1163/9789004415041_009
 
 [Roberts-2019-DOP-Framing]: https://doi.org/10.5281/zenodo.3797823
@@ -74,35 +76,35 @@ Los Angeles, California
 
 "A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
 
-> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020), 198--240. [[pub][Roberts-2020-Retranslation-pub]]
+> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020), 198--240. [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation]]
 
 
 ### 2019 ###
 
 "Framing a Middle Byzantine Alchemical Codex."
 
-> *Dumbarton Oaks Papers* 73 (2019): 69--102. [[pdf][Roberts-2019-DOP-Framing]]
+> *Dumbarton Oaks Papers* 73 (2019): 69--102. [[PDF][Roberts-2019-DOP-Framing]]
 
 
 ### 2017 ###
 
 "Being a Sabian at Court in Tenth-Century Baghdad."
 
-> *Journal of the American Oriental Society* 137.2 (2017): 253–277. [[pub][Roberts-2017-JAOS-Sabians-pub]|[pdf][Roberts-2017-JAOS-Sabians]]
+> *Journal of the American Oriental Society* 137.2 (2017): 253–277. [[pub][Roberts-2017-JAOS-Sabians-pub]|[PDF][Roberts-2017-JAOS-Sabians]]
 
 
 ### 2013
 
 "The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees.’"
 
-> In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303. [[pdf][Roberts-2013-OCA-Crossing-Paths]]
+> In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303. [[PDF][Roberts-2013-OCA-Crossing-Paths]]
 
 
 ### 2011
 
 "Al-Mansur and the Critical Ambassador."
 
-> *Bulletin d’études orientales* 60 (2011): 145–160. [[pub][Roberts-2011-BEO60-Mansur-pub]|[pdf][Roberts-2011-BEO60-Mansur]]
+> *Bulletin d’études orientales* 60 (2011): 145–160. [[pub][Roberts-2011-BEO60-Mansur-pub]|[PDF][Roberts-2011-BEO60-Mansur]]
 
 
 ## Encyclopedia entries
