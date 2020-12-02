@@ -49,19 +49,19 @@ Los Angeles, California
 
 ### forthcoming
 
-"A Greek Alchemical Epigram in Its Middle Byzantine Context.'' 
+“A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
-> *Journal of the Warburg and Courtauld Institutes* (forthcoming 2021).
+> *Journal of the Warburg and Courtauld Institutes* 83 (forthcoming).
 
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
-> *Journal of Near Eastern Studies* (forthcoming 2021).
+> *Journal of Near Eastern Studies* (forthcoming).
 
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
-> In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2021).
+> In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming).
 
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
