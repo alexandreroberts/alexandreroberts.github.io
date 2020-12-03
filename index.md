@@ -73,7 +73,7 @@ Los Angeles, California
 
 "Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
 
-> *Philological Encounters* 5.3 (2020): 308--352. [[pub][Roberts-2020-PHEN-pub]]
+> *Philological Encounters* 5.3--4 (2020): 308--352. [[pub][Roberts-2020-PHEN-pub]]
 
 
 "A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
