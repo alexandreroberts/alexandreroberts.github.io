@@ -32,6 +32,8 @@ Los Angeles, California
 
 [Roberts-2019-DOP-Framing-HC]: https://hcommons.org/deposits/item/hc:31587/
 
+[Roberts-2017-JRA-review-of-de-giorgi-HC]: https://hcommons.org/deposits/item/hc:33751/
+
 [Roberts-2017-JRA-review-of-de-giorgi-pub]: https://doi.org/10.1017/S1047759400074845
 
 [Roberts-2017-JAOS-Sabians]: https://doi.org/10.5281/zenodo.893166
