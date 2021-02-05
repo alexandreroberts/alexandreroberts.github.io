@@ -74,7 +74,7 @@ https://zenodo.org/record/4408536
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
-> *Journal of Near Eastern Studies* (forthcoming).
+> *Journal of Near Eastern Studies* 80.1 (forthcoming).
 
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
@@ -150,5 +150,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated December 2020.*]</small>
+<small>[*Last updated February 2021.*]</small>
 
