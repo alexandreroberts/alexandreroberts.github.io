@@ -69,7 +69,7 @@ https://zenodo.org/record/4408536
 
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
-> *Journal of the Warburg and Courtauld Institutes* 83 (forthcoming).
+> *Journal of the Warburg and Courtauld Institutes* 83 ([forthcoming](https://warburg.sas.ac.uk/publications/journal-warburg-and-courtauld-institutes/jwci-volume-lxxxiii-2020)).
 
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
