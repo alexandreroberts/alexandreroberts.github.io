@@ -16,6 +16,8 @@ Los Angeles, California
 
 [AbF-book]: https://www.ucpress.edu/book/9780520343498/
 
+[AbF-book-excerpt]: https://content.ucpress.edu/title/9780520343498/9780520343498_intro.pdf
+
 [Roberts-2020-PHEN]: https://zenodo.org/record/4290202
 
 [Roberts-2020-PHEN-postprint]:
@@ -63,7 +65,7 @@ https://zenodo.org/record/4408536
 
 ## Book
 
-[*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, 2020).
+[*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, 2020). [[excerpt][AbF-book-excerpt]]
 
 ## Articles and Book Chapters
 
@@ -71,17 +73,17 @@ https://zenodo.org/record/4408536
 
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
-> *Journal of the Warburg and Courtauld Institutes* 83 ([forthcoming](https://warburg.sas.ac.uk/publications/journal-warburg-and-courtauld-institutes/jwci-volume-lxxxiii-2020)).
+> *Journal of the Warburg and Courtauld Institutes* 83 ([forthcoming 2021](https://warburg.sas.ac.uk/publications/journal-warburg-and-courtauld-institutes/jwci-volume-lxxxiii-2020)).
 
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
-> *Journal of Near Eastern Studies* 80.1 (forthcoming).
+> *Journal of Near Eastern Studies* 80.1 (forthcoming 2021).
 
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
-> In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming).
+> In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2022).
 
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
@@ -152,5 +154,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated February 2021.*]</small>
+<small>[*Last updated April 2021.*]</small>
 
