@@ -18,6 +18,8 @@ Los Angeles, California
 
 [AbF-book-excerpt]: https://content.ucpress.edu/title/9780520343498/9780520343498_intro.pdf
 
+[Roberts-2021-JNES-pub]: https://www.journals.uchicago.edu/doi/10.1086/712785
+
 [Roberts-2020-PHEN]: https://zenodo.org/record/4290202
 
 [Roberts-2020-PHEN-postprint]:
@@ -76,11 +78,6 @@ https://zenodo.org/record/4408536
 > *Journal of the Warburg and Courtauld Institutes* 83 ([forthcoming 2021](https://warburg.sas.ac.uk/publications/journal-warburg-and-courtauld-institutes/jwci-volume-lxxxiii-2020)).
 
 
-"Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
-
-> *Journal of Near Eastern Studies* 80.1 (forthcoming 2021).
-
-
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
 > In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2022).
@@ -89,6 +86,13 @@ https://zenodo.org/record/4408536
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
 
 > In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
+
+
+### 2021 ###
+
+"Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
+
+> *Journal of Near Eastern Studies* 80.1 (2021): 143--166. [[pub][Roberts-2021-JNES-pub]]
 
 
 ### 2020 ###
