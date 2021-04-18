@@ -2,10 +2,6 @@
 title: "Alexandre M. Roberts"
 ---
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;800&display=swap');
-</style>
-
 Assistant Professor of Classics  
 University of Southern California  
 Los Angeles, California  

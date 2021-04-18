@@ -1,5 +1,9 @@
+/* Raleway font from Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;800&display=swap');
+
+
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', Georgia, serif;
   /*font-family: Georgia, "PT Serif", serif;*/
   font-size: 16px;
   line-height: 1.6;
