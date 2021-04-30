@@ -73,11 +73,6 @@ https://zenodo.org/record/4408536
 
 ### forthcoming
 
-“A Greek Alchemical Epigram in Its Middle Byzantine Context.”
-
-> *Journal of the Warburg and Courtauld Institutes* 83 ([forthcoming 2021](https://warburg.sas.ac.uk/publications/journal-warburg-and-courtauld-institutes/jwci-volume-lxxxiii-2020)).
-
-
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
 > In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2022).
@@ -97,6 +92,11 @@ https://zenodo.org/record/4408536
 
 ### 2020 ###
 
+“A Greek Alchemical Epigram in Its Middle Byzantine Context.”
+
+> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.
+
+
 "Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
 
 > *Philological Encounters* 5.3--4 (2020): 308--352. [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]]
@@ -111,7 +111,7 @@ https://zenodo.org/record/4408536
 
 "Framing a Middle Byzantine Alchemical Codex."
 
-> *Dumbarton Oaks Papers* 73 (2019): 69--102. [[pub][Roberts-2019-DOP-Framing-JSTOR]|[PDF][Roberts-2019-DOP-Framing-HC]]
+> *Dumbarton Oaks Papers* 73 (2019; published May 2020): 69--102. [[pub][Roberts-2019-DOP-Framing-JSTOR]|[PDF][Roberts-2019-DOP-Framing-HC]]
 
 
 ### 2017 ###
