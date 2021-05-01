@@ -104,7 +104,7 @@ https://zenodo.org/record/4408536
 
 "A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
 
-> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020), 198--240. [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation-HC]]
+> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020; published October 2019), 198--240. [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation-HC]]
 
 
 ### 2019 ###
