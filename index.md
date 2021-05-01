@@ -132,7 +132,7 @@ https://zenodo.org/record/4408536
 
 "Al-Mansur and the Critical Ambassador."
 
-> *Bulletin d’études orientales* 60 (2011): 145–160. [[pub][Roberts-2011-BEO60-Mansur-pub]|[PDF][Roberts-2011-BEO60-Mansur-HC]]
+> *Bulletin d’études orientales* 60 (2011; published May 2012): 145–160. [[pub][Roberts-2011-BEO60-Mansur-pub]|[PDF][Roberts-2011-BEO60-Mansur-HC]]
 
 
 ## Encyclopedia entries
