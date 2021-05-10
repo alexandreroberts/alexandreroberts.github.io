@@ -20,6 +20,8 @@ Los Angeles, California
 
 [Roberts-2021-JNES-pub]: https://www.journals.uchicago.edu/doi/10.1086/712785
 
+[Roberts-2020-JWCI-pub]: https://warburg.sas.ac.uk/publications/journal-warburg-and-courtauld-institutes/jwci-volume-lxxxiii-2020
+
 [Roberts-2020-PHEN]: https://zenodo.org/record/4290202
 
 [Roberts-2020-PHEN-postprint]:
@@ -94,7 +96,7 @@ https://zenodo.org/record/4408536
 
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
-> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.
+> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36. [[pub][Roberts-2020-JWCI-pub]]
 
 
 "Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
