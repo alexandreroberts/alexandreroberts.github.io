@@ -88,6 +88,11 @@ https://zenodo.org/record/4408536
 
 ### 2021 ###
 
+“A Greek Alchemical Epigram in Its Middle Byzantine Context.”
+
+> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36. [[pub][Roberts-2020-JWCI-pub]]
+
+
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
 > *Journal of Near Eastern Studies* 80.1 (2021): 143--166. [[pub][Roberts-2021-JNES-pub]]
@@ -95,27 +100,22 @@ https://zenodo.org/record/4408536
 
 ### 2020 ###
 
-“A Greek Alchemical Epigram in Its Middle Byzantine Context.”
-
-> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36. [[pub][Roberts-2020-JWCI-pub]]
-
 
 "Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
 
 > *Philological Encounters* 5.3--4 (2020): 308--352. [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]]
 
 
-"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
-
-> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020; published October 2019), 198--240. [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation-HC]]
-
-
-### 2019 ###
-
 "Framing a Middle Byzantine Alchemical Codex."
 
 > *Dumbarton Oaks Papers* 73 (2019; published May 2020): 69--102. [[pub][Roberts-2019-DOP-Framing-JSTOR]|[PDF][Roberts-2019-DOP-Framing-HC]]
 
+
+### 2019 ###
+
+"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
+
+> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020; published October 2019), 198--240. [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation-HC]]
 
 ### 2017 ###
 
@@ -131,7 +131,7 @@ https://zenodo.org/record/4408536
 > In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303. [[PDF][Roberts-2013-OCA-Crossing-Paths-HC]]
 
 
-### 2011
+### 2012
 
 "Al-Mansur and the Critical Ambassador."
 
