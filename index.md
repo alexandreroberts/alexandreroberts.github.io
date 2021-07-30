@@ -19,6 +19,8 @@ Los Angeles, California
 
 [AbF-book-excerpt]: https://content.ucpress.edu/title/9780520343498/9780520343498_intro.pdf
 
+[Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
+
 [Roberts-2021-JNES-pub]: https://www.journals.uchicago.edu/doi/10.1086/712785
 
 [Roberts-2020-JWCI-pub]: https://warburg.sas.ac.uk/publications/journal-warburg-and-courtauld-institutes/jwci-volume-lxxxiii-2020
@@ -83,7 +85,7 @@ https://zenodo.org/record/4408536
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
 
-> In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).
+> In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming). [[preprint][Roberts-WritingReadingGreek-preprint-2021-05-04]]
 
 
 ### 2021 ###
