@@ -23,7 +23,7 @@ Los Angeles, California
 
 [Roberts-2021-JNES-pub]: https://www.journals.uchicago.edu/doi/10.1086/712785
 
-[Roberts-2020-JWCI-pub]: https://warburg.sas.ac.uk/publications/journal-warburg-and-courtauld-institutes/jwci-volume-lxxxiii-2020
+[Roberts-2020-JWCI-pub]: https://www.ingentaconnect.com/contentone/warburg/jwci/2020/00000083/00000001/art00002
 
 [Roberts-2020-PHEN]: https://zenodo.org/record/4290202
 
