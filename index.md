@@ -78,6 +78,10 @@ https://zenodo.org/record/4408536
 
 ### forthcoming
 
+"Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
+
+> *Byzantinische Zeitschrift* 115.1 (accepted November 2021; expected to appear April 2022).
+
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
 > In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2022).
@@ -163,5 +167,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated October 2021.*]</small>
+<small>[*Last updated November 2021.*]</small>
 
