@@ -78,6 +78,10 @@ https://zenodo.org/record/4408536
 
 ### forthcoming
 
+"Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
+
+> *Dumbarton Oaks Papers* 76 (accepted November 2021; expected to appear in 2022).
+
 "Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
 
 > *Byzantinische Zeitschrift* 115.1 (accepted November 2021; expected to appear April 2022).
