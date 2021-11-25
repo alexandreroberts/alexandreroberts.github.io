@@ -113,7 +113,7 @@ https://zenodo.org/record/4408536
 
 "Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
 
-> *Philological Encounters* 5.3--4 (2020): 308--352. [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]]
+> *Philological Encounters* 5.3--4 (2020): 308--352. [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]]|[PDF][Roberts-2020-PHEN-HC]
 
 
 "Framing a Middle Byzantine Alchemical Codex."
