@@ -152,7 +152,7 @@ https://zenodo.org/record/4408536
 
 “Basileios von Emesa”; “Theophilos von Edessa.”
 
-> *Lexikon byzantinischer Autoren*, ed. A. Riehle and M. Grünbart (Berlin: Akademie Verlag, forthcoming).
+> In *Lexikon byzantinischer Autoren*, ed. A. Riehle and M. Grünbart (Berlin: Akademie Verlag, forthcoming).
 
 
 ## Book Reviews
