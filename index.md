@@ -74,65 +74,72 @@ https://zenodo.org/record/4408536
 
 [*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, 2020). [[excerpt][AbF-book-excerpt]]
 
+
 ## Articles and Book Chapters
 
-
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
-*Dumbarton Oaks Papers* 76 (accepted November 2021; expected to appear in 2022).
+
+> *Dumbarton Oaks Papers* 76 (accepted November 2021; expected to appear in 2022).
 
 "Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
-*Byzantinische Zeitschrift* 115.1 (accepted November 2021; expected to appear April 2022).
+
+> *Byzantinische Zeitschrift* 115.1 (accepted November 2021; expected to appear April 2022).
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
-In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2022).
+
+> In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2022).
 
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
-In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming). [[preprint][Roberts-WritingReadingGreek-preprint-2021-05-04]]
 
+> In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming). [[preprint][Roberts-WritingReadingGreek-preprint-2021-05-04]]
 
 
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
-*Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36. [[pub][Roberts-2020-JWCI-pub]]
+
+> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36. [[pub][Roberts-2020-JWCI-pub]]
 
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
-*Journal of Near Eastern Studies* 80.1 (2021): 143--166. [[pub][Roberts-2021-JNES-pub]]
 
-
+> *Journal of Near Eastern Studies* 80.1 (2021): 143--166. [[pub][Roberts-2021-JNES-pub]]
 
 
 "Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
-*Philological Encounters* 5.3--4 (2020): 308--352. [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]|[PDF][Roberts-2020-PHEN-HC]]
+
+> *Philological Encounters* 5.3--4 (2020): 308--352. [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]|[PDF][Roberts-2020-PHEN-HC]]
 
 
 "Framing a Middle Byzantine Alchemical Codex."
-*Dumbarton Oaks Papers* 73 (2019; published May 2020): 69--102. [[pub][Roberts-2019-DOP-Framing-JSTOR]|[PDF][Roberts-2019-DOP-Framing-HC]]
 
+> *Dumbarton Oaks Papers* 73 (2019; published May 2020): 69--102. [[pub][Roberts-2019-DOP-Framing-JSTOR]|[PDF][Roberts-2019-DOP-Framing-HC]]
 
 
 "A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
-Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020; published October 2019), 198--240. [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation-HC]]
+
+> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020; published October 2019), 198--240. [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation-HC]]
 
 
 "Being a Sabian at Court in Tenth-Century Baghdad."
-*Journal of the American Oriental Society* 137.2 (2017): 253–277. [[pub][Roberts-2017-JAOS-Sabians-pub]|[PDF][Roberts-2017-JAOS-Sabians-HC]]
 
+> *Journal of the American Oriental Society* 137.2 (2017): 253–277. [[pub][Roberts-2017-JAOS-Sabians-pub]|[PDF][Roberts-2017-JAOS-Sabians-HC]]
 
 
 "The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees.’"
-In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303. [[PDF][Roberts-2013-OCA-Crossing-Paths-HC]]
 
+> In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303. [[PDF][Roberts-2013-OCA-Crossing-Paths-HC]]
 
 
 "Al-Mansur and the Critical Ambassador."
-*Bulletin d’études orientales* 60 (2011; published May 2012): 145–160. [[pub][Roberts-2011-BEO60-Mansur-pub]|[PDF][Roberts-2011-BEO60-Mansur-HC]]
+
+> *Bulletin d’études orientales* 60 (2011; published May 2012): 145–160. [[pub][Roberts-2011-BEO60-Mansur-pub]|[PDF][Roberts-2011-BEO60-Mansur-HC]]
 
 
 ## Encyclopedia entries
 
 “Basileios von Emesa”; “Theophilos von Edessa.”
-In *Lexikon byzantinischer Autoren*, ed. A. Riehle and M. Grünbart (Berlin: Akademie Verlag, forthcoming).
+
+> In *Lexikon byzantinischer Autoren*, ed. A. Riehle and M. Grünbart (Berlin: Akademie Verlag, forthcoming).
 
 
 ## Book Reviews
