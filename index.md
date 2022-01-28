@@ -78,13 +78,17 @@ https://zenodo.org/record/4408536
 
 ### forthcoming
 
+"Byzantine Engagement with Islamicate Alchemy."
+
+> *Isis: A Journal of the History of Science Society* (forthcoming).
+
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
 
-> *Dumbarton Oaks Papers* 76 (accepted November 2021; expected to appear in 2022).
+> *Dumbarton Oaks Papers* 76 (forthcoming 2022).
 
 "Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
 
-> *Byzantinische Zeitschrift* 115.1 (accepted November 2021; expected to appear April 2022).
+> *Byzantinische Zeitschrift* 115.1 (forthcoming April 2022).
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
