@@ -2,7 +2,7 @@
 title: "Alexandre M. Roberts"
 ---
 
-Assistant Professor of Classics  
+Associate Professor of Classics  
 University of Southern California  
 Los Angeles, California  
 
