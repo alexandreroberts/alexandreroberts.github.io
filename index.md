@@ -21,6 +21,8 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2022-BZ-pub]: https://doi.org/10.1515/bz-2022-0012
+
 [Roberts-2021-JNES-pub]: https://www.journals.uchicago.edu/doi/10.1086/712785
 
 [Roberts-2020-JWCI-pub]: https://www.ingentaconnect.com/contentone/warburg/jwci/2020/00000083/00000001/art00002
@@ -86,18 +88,20 @@ https://zenodo.org/record/4408536
 
 > *Dumbarton Oaks Papers* 76 (forthcoming 2022).
 
-"Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
-
-> *Byzantinische Zeitschrift* 115.1 (forthcoming April 2022).
-
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
-> In *The Diagram Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2022).
+> In *The Diagram as Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, forthcoming 2022).
 
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
 
 > In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming). [[preprint][Roberts-WritingReadingGreek-preprint-2021-05-04]]
+
+### 2022 ###
+
+"Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
+
+> *Byzantinische Zeitschrift* 115.1 (2022): 341--349. [[pub][Roberts-2022-BZ-pub]]
 
 
 ### 2021 ###
