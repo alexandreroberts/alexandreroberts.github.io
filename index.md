@@ -25,6 +25,8 @@ Los Angeles, California
 
 [Roberts-2021-JNES-pub]: https://www.journals.uchicago.edu/doi/10.1086/712785
 
+[Roberts-2021-JNES-HC]: https://hcommons.org/deposits/item/hc:38251/
+
 [Roberts-2020-JWCI-pub]: https://www.ingentaconnect.com/contentone/warburg/jwci/2020/00000083/00000001/art00002
 
 [Roberts-2020-PHEN]: https://zenodo.org/record/4290202
@@ -113,7 +115,7 @@ https://zenodo.org/record/4408536
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
-> *Journal of Near Eastern Studies* 80.1 (2021): 143--166. [[pub][Roberts-2021-JNES-pub]]
+> *Journal of Near Eastern Studies* 80.1 (2021): 143--166. [[pub][Roberts-2021-JNES-pub]|[PDF][Roberts-2021-JNES-HC]]
 
 
 ### 2020 ###
