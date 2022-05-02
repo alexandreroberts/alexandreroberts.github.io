@@ -27,7 +27,7 @@ Los Angeles, California
 
 [Roberts-2021-JNES-HC]: https://hcommons.org/deposits/item/hc:38251/
 
-[Roberts-2020-JWCI-pub]: https://www.ingentaconnect.com/contentone/warburg/jwci/2020/00000083/00000001/art00002
+[Roberts-2020-JWCI-pub]: https://doi.org/10.1086/JWCI83010001
 
 [Roberts-2020-PHEN]: https://zenodo.org/record/4290202
 
