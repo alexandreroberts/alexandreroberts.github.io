@@ -6,7 +6,7 @@ all : $(HTMLS)
 
 # Make HTMLs
 %.html : %.md
-	pandoc --standalone --email-obfuscation=javascript -c pubwebsite.css $< -o $@ 
+	pandoc --standalone --email-obfuscation=references -c pubwebsite.css $< -o $@ 
 #	md2html $< -o $@
 
 # Remove all PDF outputs
