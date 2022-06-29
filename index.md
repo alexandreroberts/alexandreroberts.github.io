@@ -84,9 +84,13 @@ https://zenodo.org/record/4408536
 
 ### forthcoming
 
+"Hierotechnicians by Name and Their Middle Byzantine Fame."
+
+> *Journal of Late Antique, Islamic and Byzantine Studies* 1 (forthcoming 2022).
+
 "Byzantine Engagement with Islamicate Alchemy."
 
-> *Isis: A Journal of the History of Science Society* (forthcoming).
+> *Isis: A Journal of the History of Science Society* 113.3 (forthcoming 2022).
 
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
 
@@ -182,5 +186,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated April 2022.*]</small>
+<small>[*Last updated June 2022.*]</small>
 
