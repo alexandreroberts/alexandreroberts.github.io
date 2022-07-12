@@ -21,6 +21,8 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2022-Chioniades-HC]: https://hcommons.org/deposits/item/hc:47227/
+
 [Roberts-2022-Chioniades-bookpub]: https://www.hup.harvard.edu/catalog.php?isbn=9780884024866
 
 [Roberts-2022-BZ-pub]: https://doi.org/10.1515/bz-2022-0012
@@ -104,7 +106,7 @@ https://zenodo.org/record/4408536
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
-> In *The Diagram as Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, 2022), 113--148. [[pub][Roberts-2022-Chioniades-bookpub]]
+> In *The Diagram as Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, 2022), 113--148. [[pub][Roberts-2022-Chioniades-bookpub]|[PDF][Roberts-2022-Chioniades-HC]]
 
 "Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
 
