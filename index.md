@@ -27,11 +27,15 @@ Los Angeles, California
 
 [Roberts-2022-BZ-pub]: https://doi.org/10.1515/bz-2022-0012
 
+[Roberts-2022-BZ-HC]: https://hcommons.org/deposits/item/hc:45383/
+
 [Roberts-2021-JNES-pub]: https://www.journals.uchicago.edu/doi/10.1086/712785
 
 [Roberts-2021-JNES-HC]: https://hcommons.org/deposits/item/hc:38251/
 
 [Roberts-2020-JWCI-pub]: https://doi.org/10.1086/JWCI83010001
+
+[Roberts-2020-JWCI-HC]: https://hcommons.org/deposits/item/hc:41801/
 
 [Roberts-2020-PHEN]: https://zenodo.org/record/4290202
 
@@ -110,15 +114,16 @@ https://zenodo.org/record/4408536
 
 "Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
 
-> *Byzantinische Zeitschrift* 115.1 (2022): 341--349. [[pub][Roberts-2022-BZ-pub]]
+> *Byzantinische Zeitschrift* 115.1 (2022): 341--349. [[pub][Roberts-2022-BZ-pub]|PDF [starting 2023-04-11][Roberts-2022-BZ-HC]]
 
 
 ### 2021 ###
 
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
-> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36. [[pub][Roberts-2020-JWCI-pub]]
+> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36. [[pub freely available][Roberts-2020-JWCI-pub]]
 
+<!--available on HC starting 2023-10-14-->
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
@@ -188,5 +193,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated June 2022.*]</small>
+<small>[*Last updated July 2022.*]</small>
 
