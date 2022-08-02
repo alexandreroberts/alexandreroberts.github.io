@@ -90,6 +90,10 @@ https://zenodo.org/record/4408536
 
 ### forthcoming
 
+"Thinking about Chemistry in Byzantium and the Islamic World."
+
+> *Journal of the History of Ideas* (forthcoming).
+
 "Hierotechnicians by Name and Their Middle Byzantine Fame."
 
 > *Journal of Late Antique, Islamic and Byzantine Studies* 1 (forthcoming 2022).
@@ -206,5 +210,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated July 2022.*]</small>
+<small>[*Last updated August 2022.*]</small>
 
