@@ -21,6 +21,8 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2022-Isis-pub]: https://doi.org/10.1086/721264
+
 [Roberts-2022-Chioniades-HC]: https://hcommons.org/deposits/item/hc:47227/
 
 [Roberts-2022-Chioniades-bookpub]: https://www.hup.harvard.edu/catalog.php?isbn=9780884024866
@@ -98,10 +100,6 @@ https://zenodo.org/record/4408536
 
 > *Journal of Late Antique, Islamic and Byzantine Studies* 1 (forthcoming 2022).
 
-"Byzantine Engagement with Islamicate Alchemy."
-
-> *Isis: A Journal of the History of Science Society* 113.3 (forthcoming 2022).
-
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
 
 > *Dumbarton Oaks Papers* 76 (forthcoming 2022).
@@ -112,6 +110,11 @@ https://zenodo.org/record/4408536
 > [[preprint][Roberts-WritingReadingGreek-preprint-2021-05-04]]
 
 ### 2022 ###
+
+"Byzantine Engagement with Islamicate Alchemy."
+
+> *Isis: A Journal of the History of Science Society* 113.3 (2022): 559--580.
+> [[open for first month][Roberts-2022-Isis-pub]]
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
