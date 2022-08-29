@@ -12,7 +12,7 @@ Los Angeles, California
 <!-- <a itemprop="sameAs" content="https://orcid.org/0000-0002-6648-5392" href="https://orcid.org/0000-0002-6648-5392" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.7em;margin-right:.5em;" alt="✺">orcid</a> -->
 [orcid](https://orcid.org/0000-0002-6648-5392) ]
 
-[ [Greek Alchemical Editions in Progress](https://gralched.hcommons.org/) ]
+[ [GrAlchEd: Greek Alchemical Editions in Progress](https://gralched.hcommons.org/) ]
 
 # Publications
 
