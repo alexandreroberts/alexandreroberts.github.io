@@ -22,6 +22,8 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2022-JLAIBS-pub]: https://www.euppublishing.com/doi/epub/10.3366/jlaibs.2022.0009
+
 [Roberts-2022-Isis-pub]: https://doi.org/10.1086/721264
 
 [Roberts-2022-Chioniades-HC]: https://hcommons.org/deposits/item/hc:47227/
@@ -97,10 +99,6 @@ https://zenodo.org/record/4408536
 
 > *Journal of the History of Ideas* (forthcoming).
 
-"Hierotechnicians by Name and Their Middle Byzantine Fame."
-
-> *Journal of Late Antique, Islamic and Byzantine Studies* 1 (forthcoming 2022).
-
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
 
 > *Dumbarton Oaks Papers* 76 (forthcoming 2022).
@@ -111,6 +109,11 @@ https://zenodo.org/record/4408536
 > [[preprint][Roberts-WritingReadingGreek-preprint-2021-05-04]]
 
 ### 2022 ###
+
+"Hierotechnicians by Name and Their Middle Byzantine Fame."
+
+> *Journal of Late Antique, Islamic and Byzantine Studies* 1.1--2 (2022):  167--199.  
+> [[open access for first two months][Roberts-2022-JLAIBS-pub]]
 
 "Byzantine Engagement with Islamicate Alchemy."
 
@@ -214,5 +217,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated August 2022.*]</small>
+<small>[*Last updated September 2022.*]</small>
 
