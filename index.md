@@ -114,7 +114,7 @@ https://zenodo.org/record/4408536
 
 "Byzantine Engagement with Islamicate Alchemy."
 
-> *Isis: A Journal of the History of Science Society* 113.3 (2022): 559--580.  
+> *Isis* 113.3 (2022): 559--580.  
 > [[open access for first month][Roberts-2022-Isis-pub]]
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
