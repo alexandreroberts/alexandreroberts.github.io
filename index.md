@@ -22,7 +22,7 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
-[Roberts-2022-JLAIBS-pub]: https://www.euppublishing.com/doi/epub/10.3366/jlaibs.2022.0009
+[Roberts-2022-JLAIBS-pub]: https://www.euppublishing.com/doi/epdf/10.3366/jlaibs.2022.0009
 
 [Roberts-2022-Isis-pub]: https://doi.org/10.1086/721264
 
