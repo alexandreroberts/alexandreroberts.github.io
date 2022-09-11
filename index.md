@@ -112,7 +112,7 @@ https://zenodo.org/record/4408536
 
 "Hierotechnicians by Name and Their Middle Byzantine Fame."
 
-> *Journal of Late Antique, Islamic and Byzantine Studies* 1.1--2 (2022):  167--199.  
+> *Journal of Late Antique, Islamic and Byzantine Studies* 1.1--2 (2022): 167--199.  
 > [[open access for first two months][Roberts-2022-JLAIBS-pub]]
 
 "Byzantine Engagement with Islamicate Alchemy."
