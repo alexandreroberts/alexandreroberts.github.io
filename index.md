@@ -22,6 +22,8 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2022-DOP-jstor]: https://www.jstor.org/stable/27172437
+
 [Roberts-2022-DOP]: https://hcommons.org/deposits/item/hc:49627/
 
 [Roberts-2022-JLAIBS-pub]: https://www.euppublishing.com/doi/epdf/10.3366/jlaibs.2022.0009
@@ -111,7 +113,7 @@ https://zenodo.org/record/4408536
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
 
 > *Dumbarton Oaks Papers* 76 (2022): 117--144.  
-> [[PDF][Roberts-2022-DOP]]
+> [[pub][Roberts-2022-DOP-jstor]|[PDF][Roberts-2022-DOP]]
 
 "Hierotechnicians by Name and Their Middle Byzantine Fame."
 
