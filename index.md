@@ -123,7 +123,7 @@ https://zenodo.org/record/4408536
 "Byzantine Engagement with Islamicate Alchemy."
 
 > *Isis* 113.3 (2022): 559--580.  
-> [[open access for first month][Roberts-2022-Isis-pub]]
+> [[open access for first month][Roberts-2022-Isis-pub]]  
 > [[interview about the article](https://hssonline.org/news/616068/Isis-September-2022---Author-Interview-with-Alexandre-Roberts.htm)]
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
@@ -223,5 +223,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated September 2022.*]</small>
+<small>[*Last updated November 2022.*]</small>
 
