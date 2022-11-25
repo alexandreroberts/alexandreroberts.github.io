@@ -212,7 +212,7 @@ Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest
 > "The Paths and Memories Tying Antioch to Its 
 > Hinterland,"
 > *Journal of Roman Archaeology* 30 (2017): 810–817.  
-> [[pub][Roberts-2017-JRA-review-of-de-giorgi-pub]]
+> [[pub][Roberts-2017-JRA-review-of-de-giorgi-pub]|[hcommons 2022-12-27][Roberts-2017-JRA-review-of-de-giorgi-HC]]
 
 
 Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (American University in Cairo Press, 2012).  
