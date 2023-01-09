@@ -142,7 +142,7 @@ https://zenodo.org/record/4408536
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
 > *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.  
-> [[pub open][Roberts-2020-JWCI-pub]]
+> [[open][Roberts-2020-JWCI-pub]]
 
 <!--available on HC starting 2023-10-14-->
 
@@ -212,7 +212,7 @@ Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest
 > "The Paths and Memories Tying Antioch to Its 
 > Hinterland,"
 > *Journal of Roman Archaeology* 30 (2017): 810–817.  
-> [[pub][Roberts-2017-JRA-review-of-de-giorgi-pub]|[hcommons 2022-12-27][Roberts-2017-JRA-review-of-de-giorgi-HC]]
+> [[pub][Roberts-2017-JRA-review-of-de-giorgi-pub]|[PDF][Roberts-2017-JRA-review-of-de-giorgi-HC]]
 
 
 Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (American University in Cairo Press, 2012).  
@@ -223,5 +223,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated November 2022.*]</small>
+<small>[*Last updated January 2023.*]</small>
 
