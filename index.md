@@ -101,7 +101,7 @@ https://zenodo.org/record/4408536
 
 "Thinking about Chemistry in Byzantium and the Islamic World."
 
-> *Journal of the History of Ideas* (forthcoming).
+> *Journal of the History of Ideas* 84.4 (expected October 2023).
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
 
