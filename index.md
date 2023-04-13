@@ -134,7 +134,7 @@ https://zenodo.org/record/4408536
 "Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
 
 > *Byzantinische Zeitschrift* 115.1 (2022): 341--349.  
-> [[pub][Roberts-2022-BZ-pub]|[hcommons 2023-04-11][Roberts-2022-BZ-HC]]
+> [[pub][Roberts-2022-BZ-pub]|[PDF][Roberts-2022-BZ-HC]]
 
 
 ### 2021 ###
@@ -142,7 +142,7 @@ https://zenodo.org/record/4408536
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
 > *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.  
-> [[open][Roberts-2020-JWCI-pub]]
+> [[open][Roberts-2020-JWCI-pub]]|[[hcommons 2023-10-14][Roberts-2020-JWCI-HC]]
 
 <!--available on HC starting 2023-10-14-->
 
