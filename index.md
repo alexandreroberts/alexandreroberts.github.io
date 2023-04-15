@@ -104,6 +104,11 @@ https://zenodo.org/record/4408536
 
 > *Journal of the History of Ideas* 84.4 (expected October 2023).
 
+"Alchemy, History, and Myth in the Souda Lexicon."
+
+> In *Alchemy in Byzantium*, ed. Gerasimos Merianos
+> (Athens: Institute of Historical Research, National Hellenic Research Foundation; invited November 2020; submitted August 2021).
+
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
 
 > In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).  
@@ -114,10 +119,6 @@ https://zenodo.org/record/4408536
 > In *Companion to John of Damascus*, ed. Ken Parry 
 > (Leiden: Brill; invited July 2020; submitted June 2022).
 
-"Alchemy, History, and Myth in the Souda Lexicon."
-
-> In *Alchemy in Byzantium*, ed. Gerasimos Merianos
-> (Athens: Institute of Historical Research, National Hellenic Research Foundation; invited November 2020; submitted August 2021).
 
 ### 2022 ###
 
@@ -234,5 +235,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated January 2023.*]</small>
+<small>[*Last updated April 2023.*]</small>
 
