@@ -95,9 +95,10 @@ https://zenodo.org/record/4408536
 
 [*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, 2020). [[excerpt][AbF-book-excerpt]]
 
+
 ## Articles and Book Chapters
 
-### forthcoming
+### future
 
 "Thinking about Chemistry in Byzantium and the Islamic World."
 
@@ -107,6 +108,16 @@ https://zenodo.org/record/4408536
 
 > In *Language Multiplicity in Byzantium and Beyond*, ed. Claudia Rapp, Emilio Bonfiglio, and Ekaterini Mitsiou (Vienna University Press through Vandenhoeck \& Ruprecht, forthcoming).  
 > [[preprint][Roberts-WritingReadingGreek-preprint-2021-05-04]]
+
+"Arabic Reception" (of John of Damascus).
+
+> In *Companion to John of Damascus*, ed. Ken Parry 
+> (Leiden: Brill; invited July 2020; submitted June 2022).
+
+"Alchemy, History, and Myth in the Souda Lexicon."
+
+> In *Alchemy in Byzantium*, ed. Gerasimos Merianos
+> (Athens: Institute of Historical Research, National Hellenic Research Foundation; invited November 2020; submitted August 2021).
 
 ### 2022 ###
 
