@@ -154,7 +154,7 @@ https://zenodo.org/record/4408536
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
 > *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.  
-> [[open][Roberts-2020-JWCI-pub]]|[[hcommons 2023-10-14][Roberts-2020-JWCI-HC]]
+> [[open][Roberts-2020-JWCI-pub]|[hcommons 2023-10-14][Roberts-2020-JWCI-HC]]
 
 <!--available on HC starting 2023-10-14-->
 
