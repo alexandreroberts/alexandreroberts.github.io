@@ -24,6 +24,8 @@ Los Angeles, California
 
 [Roberts-2022-DOP-jstor]: https://www.jstor.org/stable/27172437
 
+[Roberts-2022-DOP-archive]: https://archive.org/details/DOP76_06_Roberts
+
 [Roberts-2022-DOP]: https://hcommons.org/deposits/item/hc:49627/
 
 [Roberts-2022-JLAIBS-pub]: https://www.euppublishing.com/doi/epdf/10.3366/jlaibs.2022.0009
@@ -66,6 +68,8 @@ https://zenodo.org/record/4408536
 [Roberts-2019-DOP-Framing-HC]: https://hcommons.org/deposits/item/hc:31587/
 
 [Roberts-2019-DOP-Framing-JSTOR]: https://www.jstor.org/stable/26955172
+
+[Roberts-2019-DOP-Framing-archive]: https://archive.org/details/DOP73_05_Roberts
 
 [Roberts-2017-JRA-review-of-de-giorgi-HC]: https://hcommons.org/deposits/item/hc:33751/
 
@@ -125,7 +129,7 @@ https://zenodo.org/record/4408536
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
 
 > *Dumbarton Oaks Papers* 76 (2022): 117--144.  
-> [[pub][Roberts-2022-DOP-jstor]|[PDF][Roberts-2022-DOP]]
+> [[open][Roberts-2022-DOP-archive]|[PDF][Roberts-2022-DOP]]
 
 "Hierotechnicians by Name and Their Middle Byzantine Fame."
 
@@ -176,7 +180,7 @@ https://zenodo.org/record/4408536
 "Framing a Middle Byzantine Alchemical Codex."
 
 > *Dumbarton Oaks Papers* 73 (2019; published May 2020): 69--102.  
-> [[pub][Roberts-2019-DOP-Framing-JSTOR]|[PDF][Roberts-2019-DOP-Framing-HC]]
+> [[open][Roberts-2019-DOP-Framing-archive]|[PDF][Roberts-2019-DOP-Framing-HC]]
 
 
 ### 2019 ###
@@ -235,5 +239,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated April 2023.*]</small>
+<small>[*Last updated July 2023.*]</small>
 
