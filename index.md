@@ -71,6 +71,8 @@ https://zenodo.org/record/4408536
 
 [Roberts-2019-DOP-Framing-archive]: https://archive.org/details/DOP73_05_Roberts
 
+[DOP-73]: https://www.dopapers.org/for-readers/past-issues/volume-73
+
 [Roberts-2017-JRA-review-of-de-giorgi-HC]: https://hcommons.org/deposits/item/hc:33751/
 
 [Roberts-2017-JRA-review-of-de-giorgi-pub]: https://doi.org/10.1017/S1047759400074845
@@ -179,7 +181,7 @@ https://zenodo.org/record/4408536
 
 "Framing a Middle Byzantine Alchemical Codex."
 
-> *Dumbarton Oaks Papers* 73 (2019; published May 2020): 69--102.  
+> *Dumbarton Oaks Papers* [73][DOP-73] (2019; published May 2020): 69--102.  
 > [[open][Roberts-2019-DOP-Framing-archive]|[PDF][Roberts-2019-DOP-Framing-HC]]
 
 
