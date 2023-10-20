@@ -22,6 +22,9 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2023-JHI]: https://hcommons.org/deposits/item/hc:60037/
+<!--available starting Oct 20, 2025.-->
+
 [Roberts-2023-JHI-pub]: https://muse.jhu.edu/pub/56/article/909532
 
 [Roberts-2022-DOP-jstor]: https://www.jstor.org/stable/27172437
