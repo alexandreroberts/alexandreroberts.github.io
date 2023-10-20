@@ -22,6 +22,8 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2023-JHI-pub]: https://muse.jhu.edu/pub/56/article/909532
+
 [Roberts-2022-DOP-jstor]: https://www.jstor.org/stable/27172437
 
 [Roberts-2022-DOP-archive]: https://archive.org/details/DOP76_06_Roberts
@@ -106,10 +108,6 @@ https://zenodo.org/record/4408536
 
 ### future
 
-"Thinking about Chemistry in Byzantium and the Islamic World."
-
-> *Journal of the History of Ideas* 84.4 (expected October 2023).
-
 "Alchemy, History, and Myth in the Souda Lexicon."
 
 > In *Alchemy in Byzantium*, ed. Gerasimos Merianos
@@ -124,6 +122,13 @@ https://zenodo.org/record/4408536
 
 > In *Companion to John of Damascus*, ed. Ken Parry 
 > (Leiden: Brill; invited July 2020; submitted June 2022).
+
+### 2023 ###
+
+"Thinking about Chemistry in Byzantium and the Islamic World."
+
+> *Journal of the History of Ideas* 84.4 (2023): 595--619.  
+> [[pub][Roberts-2023-JHI-pub]]
 
 
 ### 2022 ###
@@ -241,5 +246,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated July 2023.*]</small>
+<small>[*Last updated October 2023.*]</small>
 
