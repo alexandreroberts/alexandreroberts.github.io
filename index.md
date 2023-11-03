@@ -168,9 +168,8 @@ https://zenodo.org/record/4408536
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
 > *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.  
-> [[open][Roberts-2020-JWCI-pub]|[hcommons 2023-10-14][Roberts-2020-JWCI-HC]]
+> [[open][Roberts-2020-JWCI-pub]|[PDF][Roberts-2020-JWCI-HC]]
 
-<!--available on HC starting 2023-10-14-->
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
@@ -249,5 +248,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated October 2023.*]</small>
+<small>[*Last updated November 2023.*]</small>
 
