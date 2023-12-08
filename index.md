@@ -23,7 +23,6 @@ Los Angeles, California
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
 [Roberts-2023-JHI]: https://hcommons.org/deposits/item/hc:60037/
-<!--available starting Oct 20, 2025.-->
 
 [Roberts-2023-JHI-pub]: https://muse.jhu.edu/pub/56/article/909532
 
@@ -131,7 +130,7 @@ https://zenodo.org/record/4408536
 "Thinking about Chemistry in Byzantium and the Islamic World."
 
 > *Journal of the History of Ideas* 84.4 (2023): 595--619.  
-> [[pub][Roberts-2023-JHI-pub]]
+> [[pub][Roberts-2023-JHI-pub]|[PDF][Roberts-2023-JHI]]
 
 
 ### 2022 ###
@@ -248,5 +247,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated November 2023.*]</small>
+<small>[*Last updated December 2023.*]</small>
 
