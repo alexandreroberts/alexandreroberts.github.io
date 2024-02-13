@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -20,9 +23,6 @@
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="pubwebsite.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -49,8 +49,11 @@ Abdallah ibn al-Fadl</em></a>, Berkeley Series in Postclassical Islamic
 Scholarship 3 (University of California Press, 2020). [<a
 href="https://content.ucpress.edu/title/9780520343498/9780520343498_intro.pdf">excerpt</a>]</p>
 <blockquote>
-<p>[Reviewed in <a href="https://doi.org/10.1086/728325"><em>Speculum: A
-Journal of Medieval Studies</em></a>, <a
+<p>[Reviewed in <a
+href="https://doi.org/10.1525/sla.2024.8.1.130"><em>Studies in Late
+Antiquity</em></a>, <a
+href="https://doi.org/10.1086/728325"><em>Speculum: A Journal of
+Medieval Studies</em></a>, <a
 href="http://doi.org/10.1353/cat.2022.0090"><em>The Catholic Historical
 Review</em></a>, <a
 href="https://doi.org/10.1163/15700674-12340133"><em>Mediterranean

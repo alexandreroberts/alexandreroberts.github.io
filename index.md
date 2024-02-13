@@ -106,10 +106,12 @@ https://zenodo.org/record/4408536
 [*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, 2020). [[excerpt][AbF-book-excerpt]]
 
 > [Reviewed in 
+> [*Studies in Late Antiquity*](https://doi.org/10.1525/sla.2024.8.1.130), 
 > [*Speculum: A Journal of Medieval Studies*](https://doi.org/10.1086/728325),
 > [*The Catholic Historical Review*](http://doi.org/10.1353/cat.2022.0090), 
 > [*Mediterranean Encounters*](https://doi.org/10.1163/15700674-12340133), 
 > and [*Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists*](https://doi.org/10.52214/uw.v29i1.8911).]
+
 
 
 
