@@ -22,7 +22,7 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
-[Roberts-2024-ByzRev-rev-Shukurov-pub]: https://www.uni-muenster.de/Ejournals/index.php/byzrev/article/view/5508/5671
+[Roberts-2024-ByzRev-rev-Shukurov-pub]: https://doi.org/10.17879/byzrev-2024-5508
 
 [Roberts-2023-JHI]: https://hcommons.org/deposits/item/hc:60037/
 
