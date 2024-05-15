@@ -143,6 +143,7 @@ https://zenodo.org/record/4408536
 
 > *Journal of the History of Ideas* 84.4 (2023): 595--619.  
 > [[pub][Roberts-2023-JHI-pub]|[PDF][Roberts-2023-JHI]]
+> [[interview about the article](https://www.jhiblog.org/2023/12/21/broadly-speaking-an-interview-with-alexandre-roberts/)]
 
 
 ### 2022 ###
@@ -155,7 +156,7 @@ https://zenodo.org/record/4408536
 "Hierotechnicians by Name and Their Middle Byzantine Fame."
 
 > *Journal of Late Antique, Islamic and Byzantine Studies* 1.1--2 (2022): 167--199.  
-> [[open access for first two months][Roberts-2022-JLAIBS-pub]]
+> [[open access for first two months][Roberts-2022-JLAIBS-pub]]  
 
 "Byzantine Engagement with Islamicate Alchemy."
 
@@ -264,5 +265,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated December 2023.*]</small>
+<small>[*Last updated April 2024.*]</small>
 
