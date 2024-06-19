@@ -22,6 +22,8 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2024-ByzRev-rev-Shukurov]: https://hcommons.org/deposits/item/hc:65447/
+
 [Roberts-2024-ByzRev-rev-Shukurov-pub]: https://doi.org/10.17879/byzrev-2024-5508
 
 [Roberts-2023-JHI]: https://hcommons.org/deposits/item/hc:60037/
@@ -247,7 +249,7 @@ https://zenodo.org/record/4408536
 Rustam Shukurov, *Byzantine Ideas of Persia, 650--1461* (Routledge, 2023).
 
 > *The Byzantine Review* 6 (2024): 112--126.  
-[[open][Roberts-2024-ByzRev-rev-Shukurov-pub]]
+[[open][Roberts-2024-ByzRev-rev-Shukurov-pub]|[PDF][Roberts-2024-ByzRev-rev-Shukurov]]
 
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest* (Cambridge University Press, 2016).
 
