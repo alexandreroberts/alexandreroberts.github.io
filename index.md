@@ -144,7 +144,7 @@ https://zenodo.org/record/4408536
 "Thinking about Chemistry in Byzantium and the Islamic World."
 
 > *Journal of the History of Ideas* 84.4 (2023): 595--619.  
-> [[pub][Roberts-2023-JHI-pub]|[PDF][Roberts-2023-JHI]]
+> [[pub][Roberts-2023-JHI-pub]|[PDF][Roberts-2023-JHI]]  
 > [[interview about the article](https://www.jhiblog.org/2023/12/21/broadly-speaking-an-interview-with-alexandre-roberts/)]
 
 
@@ -163,7 +163,7 @@ https://zenodo.org/record/4408536
 "Byzantine Engagement with Islamicate Alchemy."
 
 > *Isis* 113.3 (2022): 559--580.  
-> [[open][Roberts-2022-Isis-pub]]
+> [[open][Roberts-2022-Isis-pub]]  
 > [[interview about the article](https://hssonline.org/news/616068/Isis-September-2022---Author-Interview-with-Alexandre-Roberts.htm)]
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
