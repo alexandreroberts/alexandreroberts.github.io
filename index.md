@@ -153,17 +153,17 @@ https://zenodo.org/record/4408536
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
 
 > *Dumbarton Oaks Papers* 76 (2022): 117--144.  
-> [[open][Roberts-2022-DOP-archive]|[PDF][Roberts-2022-DOP]]
+> [[open access][Roberts-2022-DOP-archive]|[PDF][Roberts-2022-DOP]]
 
 "Hierotechnicians by Name and Their Middle Byzantine Fame."
 
 > *Journal of Late Antique, Islamic and Byzantine Studies* 1.1--2 (2022): 167--199.  
-> [[open][Roberts-2022-JLAIBS-pub]]  
+> [[open access][Roberts-2022-JLAIBS-pub]]  
 
 "Byzantine Engagement with Islamicate Alchemy."
 
 > *Isis* 113.3 (2022): 559--580.  
-> [[open][Roberts-2022-Isis-pub]]  
+> [[open access][Roberts-2022-Isis-pub]]  
 > [[interview about the article](https://hssonline.org/news/616068/Isis-September-2022---Author-Interview-with-Alexandre-Roberts.htm)]
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
@@ -182,7 +182,7 @@ https://zenodo.org/record/4408536
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
 > *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.  
-> [[open][Roberts-2020-JWCI-pub]|[PDF][Roberts-2020-JWCI-HC]]
+> [[open access][Roberts-2020-JWCI-pub]|[PDF][Roberts-2020-JWCI-HC]]
 
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
@@ -203,7 +203,7 @@ https://zenodo.org/record/4408536
 "Framing a Middle Byzantine Alchemical Codex."
 
 > *Dumbarton Oaks Papers* [73][DOP-73] (2019; published May 2020): 69--102.  
-> [[open][Roberts-2019-DOP-Framing-archive]|[PDF][Roberts-2019-DOP-Framing-HC]]
+> [[open access][Roberts-2019-DOP-Framing-archive]|[PDF][Roberts-2019-DOP-Framing-HC]]
 
 
 ### 2019 ###
@@ -249,7 +249,7 @@ https://zenodo.org/record/4408536
 Rustam Shukurov, *Byzantine Ideas of Persia, 650--1461* (Routledge, 2023).
 
 > *The Byzantine Review* 6 (2024): 112--126.  
-[[open][Roberts-2024-ByzRev-rev-Shukurov-pub]|[PDF][Roberts-2024-ByzRev-rev-Shukurov]]
+[[open access][Roberts-2024-ByzRev-rev-Shukurov-pub]|[PDF][Roberts-2024-ByzRev-rev-Shukurov]]
 
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest* (Cambridge University Press, 2016).
 
@@ -263,7 +263,7 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 > "In Mecca’s Backyard,"
 > *Marginalia Review of Books*, April 29, 2014.  
-> [[open][Roberts-2014-Marginalia-Red-Sea]]
+> [[open access][Roberts-2014-Marginalia-Red-Sea]]
 
 -------
 
