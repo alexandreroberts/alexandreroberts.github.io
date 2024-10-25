@@ -16,7 +16,7 @@ Los Angeles, California
 
 # Publications
 
-[AbF-book]: https://www.ucpress.edu/book/9780520343498/
+[AbF-book]: https://www.ucpress.edu/books/reason-and-revelation-in-byzantine-antioch/hardcover
 
 [AbF-book-excerpt]: https://content.ucpress.edu/title/9780520343498/9780520343498_intro.pdf
 
