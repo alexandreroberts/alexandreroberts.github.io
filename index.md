@@ -124,6 +124,10 @@ https://zenodo.org/record/4408536
 
 ### future
 
+"Disentangling Alchemy."
+
+> _Isis_ (forthcoming).
+
 "Alchemy, History, and Myth in the Souda Lexicon."
 
 > In *Alchemy in Byzantium*, ed. Gerasimos Merianos
