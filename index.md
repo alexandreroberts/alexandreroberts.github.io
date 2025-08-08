@@ -186,7 +186,7 @@ https://zenodo.org/record/4408536
 “A Greek Alchemical Epigram in Its Middle Byzantine Context.”
 
 > *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.  
-> [[open access][Roberts-2020-JWCI-pub]|[PDF][Roberts-2020-JWCI-HC]]
+> [[pub][Roberts-2020-JWCI-pub]|[PDF][Roberts-2020-JWCI-HC]]
 
 
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
@@ -250,10 +250,16 @@ https://zenodo.org/record/4408536
 
 ## Book Reviews
 
+Giovanni Mandolino,
+_Yaḥyā ibn ʿAdī: Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text, English Translation and Commentary_ (Brill, 2023).
+
+> *Church History* (2025).  
+> [[pub](https://doi.org/10.1017/S0009640725101327)|[PDF](https://works.hcommons.org/records/w6fdd-9yn77)]
+
 Rustam Shukurov, *Byzantine Ideas of Persia, 650--1461* (Routledge, 2023).
 
 > *The Byzantine Review* 6 (2024): 112--126.  
-[[open access][Roberts-2024-ByzRev-rev-Shukurov-pub]|[PDF][Roberts-2024-ByzRev-rev-Shukurov]]
+> [[open access][Roberts-2024-ByzRev-rev-Shukurov-pub]|[PDF][Roberts-2024-ByzRev-rev-Shukurov]]
 
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest* (Cambridge University Press, 2016).
 
@@ -271,5 +277,5 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 
 -------
 
-<small>[*Last updated January 2025.*]</small>
+<small>[*Last updated August 2025.*]</small>
 
