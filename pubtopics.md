@@ -144,7 +144,7 @@ _The Book on Alums and Salts of Pseudo-Rāzī: The Arabic and Hebrew Traditions_
 > _British Journal for the History of Science_ (2025).    
 > [[pub](https://doi.org/10.1017/S0007087425000263)|[PDF](https://works.hcommons.org/records/6wwt8-06572)]
 
-## Re-thinking the Greek Alchemical Corpus in Byzantine Context
+## The Greek Alchemical Corpus in Byzantine Context
 
 "Hierotechnicians by Name and Their Middle Byzantine Fame."
 
@@ -219,18 +219,6 @@ _Yaḥyā ibn ʿAdī: Treatise on Divine Unity According to the Doctrine of the 
 > *Journal of the American Oriental Society* 137.2 (2017): 253–277.  
 > [[pub][Roberts-2017-JAOS-Sabians-pub]|[PDF][Roberts-2017-JAOS-Sabians-HC]]
 
-
-"Al-Mansur and the Critical Ambassador."
-
-> *Bulletin d’études orientales* 60 (2011; published May 2012): 145–160.  
-> [[pub][Roberts-2011-BEO60-Mansur-pub]|[PDF][Roberts-2011-BEO60-Mansur-HC]]
-
-Book review:
-Rustam Shukurov, *Byzantine Ideas of Persia, 650--1461* (Routledge, 2023).
-
-> *The Byzantine Review* 6 (2024): 112--126.  
-> [[open access][Roberts-2024-ByzRev-rev-Shukurov-pub]|[PDF][Roberts-2024-ByzRev-rev-Shukurov]]
-
 Book review:
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest* (Cambridge University Press, 2016).
 
@@ -248,7 +236,7 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 > [[open access][Roberts-2014-Marginalia-Red-Sea]]
 
 
-## Science and Mathematics
+## Cross-Cultural Contacts
 
 "Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
 
@@ -256,16 +244,29 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 > [[pub][Roberts-2022-Chioniades-bookpub]|[PDF][Roberts-2022-Chioniades-HC]]
 
 
-"Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
-
-> *Philological Encounters* 5.3--4 (2020): 308--352.  
-> [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]|[PDF][Roberts-2020-PHEN-HC]]
-
 "The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees.’"
 
 > In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303.   
 > [[PDF][Roberts-2013-OCA-Crossing-Paths-HC]]
 
+
+"Al-Mansur and the Critical Ambassador."
+
+> *Bulletin d’études orientales* 60 (2011; published May 2012): 145–160.  
+> [[pub][Roberts-2011-BEO60-Mansur-pub]|[PDF][Roberts-2011-BEO60-Mansur-HC]]
+
+Book review:
+Rustam Shukurov, *Byzantine Ideas of Persia, 650--1461* (Routledge, 2023).
+
+> *The Byzantine Review* 6 (2024): 112--126.  
+> [[open access][Roberts-2024-ByzRev-rev-Shukurov-pub]|[PDF][Roberts-2024-ByzRev-rev-Shukurov]]
+
+## Mathematics
+
+"Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
+
+> *Philological Encounters* 5.3--4 (2020): 308--352.  
+> [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]|[PDF][Roberts-2020-PHEN-HC]]
 
 -------
 
