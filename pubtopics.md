@@ -14,9 +14,9 @@ Los Angeles, California
 
 [ [GrAlchEd: Greek Alchemical Editions in Progress](https://gralched.hcommons.org/) ]
 
-# Publications
+# Publications 
 
-by type | [by topic](pubtopics.html)
+[by type](index.html) | by topic
 
 ----
 
@@ -109,7 +109,65 @@ https://zenodo.org/record/4408536
 
 [BE-salamander-article]: http://beheco.oxfordjournals.org/content/19/3/621
 
-## Book
+
+
+
+## The History of Alchemy and Chemistry
+
+"Disentangling Alchemy."
+
+> _Isis_ 116.4 (forthcoming December 2025).
+
+
+"Thinking about Chemistry in Byzantium and the Islamic World."
+
+> *Journal of the History of Ideas* 84.4 (2023): 595--619.  
+> [[pub][Roberts-2023-JHI-pub]|[PDF][Roberts-2023-JHI]]  
+> [[interview about the article](https://www.jhiblog.org/2023/12/21/broadly-speaking-an-interview-with-alexandre-roberts/)]
+
+"Alchemy, History, and Myth in the Souda Lexicon."
+
+> In *Alchemy in Byzantium*, ed. Gerasimos Merianos
+> (Athens: Institute of Historical Research, National Hellenic Research Foundation; invited November 2020; submitted August 2021).
+
+"Byzantine Engagement with Islamicate Alchemy."
+
+> *Isis* 113.3 (2022): 559--580.  
+> [[open access][Roberts-2022-Isis-pub]]  
+> [[interview about the article](https://hssonline.org/news/616068/Isis-September-2022---Author-Interview-with-Alexandre-Roberts.htm)]
+
+Book review:
+Gabriele Ferrario,
+_The Book on Alums and Salts of Pseudo-Rāzī: The Arabic and Hebrew Traditions_
+(Routledge, 2024).
+
+> _British Journal for the History of Science_ (2025).    
+> [[pub](https://doi.org/10.1017/S0007087425000263)|[PDF](https://works.hcommons.org/records/6wwt8-06572)]
+
+## Re-thinking the Greek Alchemical Corpus in Byzantine Context
+
+"Hierotechnicians by Name and Their Middle Byzantine Fame."
+
+> *Journal of Late Antique, Islamic and Byzantine Studies* 1.1--2 (2022): 167--199.  
+> [[open access][Roberts-2022-JLAIBS-pub]]  
+
+"Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
+
+> *Byzantinische Zeitschrift* 115.1 (2022): 341--349.  
+> [[pub][Roberts-2022-BZ-pub]|[PDF][Roberts-2022-BZ-HC]]
+
+“A Greek Alchemical Epigram in Its Middle Byzantine Context.”
+
+> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.  
+> [[pub][Roberts-2020-JWCI-pub]|[PDF][Roberts-2020-JWCI-HC]]
+
+"Framing a Middle Byzantine Alchemical Codex."
+
+> *Dumbarton Oaks Papers* [73][DOP-73] (2019; published May 2020): 69--102.  
+> [[open access][Roberts-2019-DOP-Framing-archive]|[PDF][Roberts-2019-DOP-Framing-HC]]
+
+
+## Byzantine-Arabic Christianity and the History of Philosophy
 
 [*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, 2020). [[excerpt][AbF-book-excerpt]]
 
@@ -119,23 +177,6 @@ https://zenodo.org/record/4408536
 > [*The Catholic Historical Review*](http://doi.org/10.1353/cat.2022.0090), 
 > [*Mediterranean Encounters*](https://doi.org/10.1163/15700674-12340133), 
 > and [*Al-ʿUṣūr al-Wusṭā: The Journal of Middle East Medievalists*](https://doi.org/10.52214/uw.v29i1.8911).]
-
-
-
-
-
-## Articles and Book Chapters
-
-### future
-
-"Disentangling Alchemy."
-
-> _Isis_ 116.4 (forthcoming December 2025).
-
-"Alchemy, History, and Myth in the Souda Lexicon."
-
-> In *Alchemy in Byzantium*, ed. Gerasimos Merianos
-> (Athens: Institute of Historical Research, National Hellenic Research Foundation; invited November 2020; submitted August 2021).
 
 "Writing and Reading Greek on the Pages of Arabic Translations of Byzantine Christian Classics."
 
@@ -147,81 +188,31 @@ https://zenodo.org/record/4408536
 > In *Companion to John of Damascus*, ed. Ken Parry 
 > (Leiden: Brill; invited July 2020; submitted June 2022).
 
-### 2023 ###
+"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
 
-"Thinking about Chemistry in Byzantium and the Islamic World."
+> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020; published October 2019), 198--240.  
+> [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation-HC]]
 
-> *Journal of the History of Ideas* 84.4 (2023): 595--619.  
-> [[pub][Roberts-2023-JHI-pub]|[PDF][Roberts-2023-JHI]]  
-> [[interview about the article](https://www.jhiblog.org/2023/12/21/broadly-speaking-an-interview-with-alexandre-roberts/)]
+Book review:
+Giovanni Mandolino,
+_Yaḥyā ibn ʿAdī: Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text, English Translation and Commentary_ (Brill, 2023).
+
+> *Church History* (2025).  
+> [[pub](https://doi.org/10.1017/S0009640725101327)|[PDF](https://works.hcommons.org/records/w6fdd-9yn77)]
 
 
-### 2022 ###
+
+## Social and Cultural History of Byzantium and the Middle East
 
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
 
 > *Dumbarton Oaks Papers* 76 (2022): 117--144.  
 > [[open access][Roberts-2022-DOP-archive]|[PDF][Roberts-2022-DOP]]
 
-"Hierotechnicians by Name and Their Middle Byzantine Fame."
-
-> *Journal of Late Antique, Islamic and Byzantine Studies* 1.1--2 (2022): 167--199.  
-> [[open access][Roberts-2022-JLAIBS-pub]]  
-
-"Byzantine Engagement with Islamicate Alchemy."
-
-> *Isis* 113.3 (2022): 559--580.  
-> [[open access][Roberts-2022-Isis-pub]]  
-> [[interview about the article](https://hssonline.org/news/616068/Isis-September-2022---Author-Interview-with-Alexandre-Roberts.htm)]
-
-"Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
-
-> In *The Diagram as Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, 2022), 113--148.   
-> [[pub][Roberts-2022-Chioniades-bookpub]|[PDF][Roberts-2022-Chioniades-HC]]
-
-"Islamicate Alchemy in Greek Letters on the First Page of *Marcianus graecus* 299."
-
-> *Byzantinische Zeitschrift* 115.1 (2022): 341--349.  
-> [[pub][Roberts-2022-BZ-pub]|[PDF][Roberts-2022-BZ-HC]]
-
-
-### 2021 ###
-
-“A Greek Alchemical Epigram in Its Middle Byzantine Context.”
-
-> *Journal of the Warburg and Courtauld Institutes* 83 (2020; published May 2021): 1--36.  
-> [[pub][Roberts-2020-JWCI-pub]|[PDF][Roberts-2020-JWCI-HC]]
-
-
 "Like a Runaway Slave: The Discourse of an Eighth-Century Muslim Ascetic."
 
 > *Journal of Near Eastern Studies* 80.1 (2021): 143--166.  
 > [[pub][Roberts-2021-JNES-pub]|[PDF][Roberts-2021-JNES-HC]]
-
-
-### 2020 ###
-
-
-"Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
-
-> *Philological Encounters* 5.3--4 (2020): 308--352.  
-> [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]|[PDF][Roberts-2020-PHEN-HC]]
-
-
-"Framing a Middle Byzantine Alchemical Codex."
-
-> *Dumbarton Oaks Papers* [73][DOP-73] (2019; published May 2020): 69--102.  
-> [[open access][Roberts-2019-DOP-Framing-archive]|[PDF][Roberts-2019-DOP-Framing-HC]]
-
-
-### 2019 ###
-
-"A Re-Translation of Basil's Hexaemeral Homilies by ʿAbdallāh ibn al-Faḍl of Antioch."
-
-> Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020; published October 2019), 198--240.  
-> [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation-HC]]
-
-### 2017 ###
 
 "Being a Sabian at Court in Tenth-Century Baghdad."
 
@@ -229,49 +220,18 @@ https://zenodo.org/record/4408536
 > [[pub][Roberts-2017-JAOS-Sabians-pub]|[PDF][Roberts-2017-JAOS-Sabians-HC]]
 
 
-### 2013
-
-"The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees.’"
-
-> In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303.   
-> [[PDF][Roberts-2013-OCA-Crossing-Paths-HC]]
-
-
-### 2012
-
 "Al-Mansur and the Critical Ambassador."
 
 > *Bulletin d’études orientales* 60 (2011; published May 2012): 145–160.  
 > [[pub][Roberts-2011-BEO60-Mansur-pub]|[PDF][Roberts-2011-BEO60-Mansur-HC]]
 
-
-## Encyclopedia entries
-
-“Basileios von Emesa”; “Theophilos von Edessa.”
-
-> In *Lexikon byzantinischer Autoren*, ed. A. Riehle and M. Grünbart (Berlin: Akademie Verlag, forthcoming).
-
-
-## Book Reviews
-
-Gabriele Ferrario,
-_The Book on Alums and Salts of Pseudo-Rāzī: The Arabic and Hebrew Traditions_
-(Routledge, 2024).
-
-> _British Journal for the History of Science_ (2025).    
-> [[pub](https://doi.org/10.1017/S0007087425000263)|[PDF](https://works.hcommons.org/records/6wwt8-06572)]
-
-Giovanni Mandolino,
-_Yaḥyā ibn ʿAdī: Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text, English Translation and Commentary_ (Brill, 2023).
-
-> *Church History* (2025).  
-> [[pub](https://doi.org/10.1017/S0009640725101327)|[PDF](https://works.hcommons.org/records/w6fdd-9yn77)]
-
+Book review:
 Rustam Shukurov, *Byzantine Ideas of Persia, 650--1461* (Routledge, 2023).
 
 > *The Byzantine Review* 6 (2024): 112--126.  
 > [[open access][Roberts-2024-ByzRev-rev-Shukurov-pub]|[PDF][Roberts-2024-ByzRev-rev-Shukurov]]
 
+Book review:
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest* (Cambridge University Press, 2016).
 
 > "The Paths and Memories Tying Antioch to Its 
@@ -280,11 +240,32 @@ Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest
 > [[pub][Roberts-2017-JRA-review-of-de-giorgi-pub]|[PDF][Roberts-2017-JRA-review-of-de-giorgi-HC]]
 
 
+Book review:
 Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (American University in Cairo Press, 2012).  
 
 > "In Mecca’s Backyard,"
 > *Marginalia Review of Books*, April 29, 2014.  
 > [[open access][Roberts-2014-Marginalia-Red-Sea]]
+
+
+## Science and Mathematics
+
+"Byzantine-Islamic Scientific Culture in the Astronomical Diagrams of Chioniades on John of Damascus."
+
+> In *The Diagram as Paradigm: Cross-Cultural Approaches*, ed. Jeffrey Hamburger, David Roxburgh, and Linda Safran (Washington, DC: Dumbarton Oaks, 2022), 113--148.   
+> [[pub][Roberts-2022-Chioniades-bookpub]|[PDF][Roberts-2022-Chioniades-HC]]
+
+
+"Mathematical Philology in the Treatise on Double False Position in an Arabic Manuscript at Columbia University."
+
+> *Philological Encounters* 5.3--4 (2020): 308--352.  
+> [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]|[PDF][Roberts-2020-PHEN-HC]]
+
+"The Crossing Paths of Greek and Persian Knowledge in the 9th-century Arabic ‘Book of Degrees.’"
+
+> In *Le vie del sapere in ambito siro-mesopotamico dal III al IX secolo*, ed. Carla Noce, Massimo Pampaloni, and Claudia Tavolieri, Orientalia Christiana Analecta 293 (Rome: Pontificio Istituto Orientale, 2013), 279–303.   
+> [[PDF][Roberts-2013-OCA-Crossing-Paths-HC]]
+
 
 -------
 
