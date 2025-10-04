@@ -8,7 +8,7 @@ Los Angeles, California
 
 [ [faculty page](https://dornsife.usc.edu/profile/alexandre-roberts/) |
 [hcommons](https://hcommons.org/members/amroberts/) |
-[zenodo](https://zenodo.org/communities/amroberts/search?page=1&size=20) |
+<!--[zenodo](https://zenodo.org/communities/amroberts/search?page=1&size=20) |-->
 <!-- <a itemprop="sameAs" content="https://orcid.org/0000-0002-6648-5392" href="https://orcid.org/0000-0002-6648-5392" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.7em;margin-right:.5em;" alt="✺">orcid</a> -->
 [orcid](https://orcid.org/0000-0002-6648-5392) ]
 
