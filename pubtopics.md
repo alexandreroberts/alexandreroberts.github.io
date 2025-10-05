@@ -12,11 +12,10 @@ Los Angeles, California
 <!-- <a itemprop="sameAs" content="https://orcid.org/0000-0002-6648-5392" href="https://orcid.org/0000-0002-6648-5392" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.7em;margin-right:.5em;" alt="✺">orcid</a> -->
 [orcid](https://orcid.org/0000-0002-6648-5392) ]
 
-[ [GrAlchEd: Greek Alchemical Editions in Progress](https://gralched.hcommons.org/) ]
 
 # Publications 
 
-[by type](index.html) | by topic
+[_by kind_](index.html) | _by topic_
 
 ----
 
@@ -112,7 +111,7 @@ https://zenodo.org/record/4408536
 
 
 
-## The History of Alchemy and Chemistry
+## Alchemy and Chemistry
 
 "Disentangling Alchemy."
 
@@ -136,7 +135,7 @@ https://zenodo.org/record/4408536
 > [[open access][Roberts-2022-Isis-pub]]  
 > [[interview about the article](https://hssonline.org/news/616068/Isis-September-2022---Author-Interview-with-Alexandre-Roberts.htm)]
 
-Book review:
+**book review** |
 Gabriele Ferrario,
 _The Book on Alums and Salts of Pseudo-Rāzī: The Arabic and Hebrew Traditions_
 (Routledge, 2024).
@@ -144,7 +143,10 @@ _The Book on Alums and Salts of Pseudo-Rāzī: The Arabic and Hebrew Traditions_
 > _British Journal for the History of Science_ (2025).    
 > [[pub](https://doi.org/10.1017/S0007087425000263)|[PDF](https://works.hcommons.org/records/6wwt8-06572)]
 
-## The Greek Alchemical Corpus in Byzantine Context
+**webpage** |
+[GrAlchEd: Greek Alchemical Editions in Progress](https://gralched.hcommons.org/) 
+
+## The Greek Alchemical Corpus in Byzantium
 
 "Hierotechnicians by Name and Their Middle Byzantine Fame."
 
@@ -167,7 +169,7 @@ _The Book on Alums and Salts of Pseudo-Rāzī: The Arabic and Hebrew Traditions_
 > [[open access][Roberts-2019-DOP-Framing-archive]|[PDF][Roberts-2019-DOP-Framing-HC]]
 
 
-## Byzantine-Arabic Christianity and the History of Philosophy
+## Byzantine-Arabic Christianity and Hellenic Philosophy
 
 [*Reason and Revelation in Byzantine Antioch: The Christian Translation Program of Abdallah ibn al-Fadl*][AbF-book], Berkeley Series in Postclassical Islamic Scholarship 3 (University of California Press, 2020). [[excerpt][AbF-book-excerpt]]
 
@@ -193,7 +195,7 @@ _The Book on Alums and Salts of Pseudo-Rāzī: The Arabic and Hebrew Traditions_
 > Chapter 7 in *Patristic Literature in Arabic Translations*, ed. Barbara Roggema and Alexander Treiger, Arabic Christianity: Texts and Studies 2 (Leiden: Brill, 2020; published October 2019), 198--240.  
 > [[pub][Roberts-2020-Retranslation-pub]|[PDF][Roberts-2020-Retranslation-HC]]
 
-Book review:
+**book review** |
 Giovanni Mandolino,
 _Yaḥyā ibn ʿAdī: Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text, English Translation and Commentary_ (Brill, 2023).
 
@@ -202,7 +204,7 @@ _Yaḥyā ibn ʿAdī: Treatise on Divine Unity According to the Doctrine of the 
 
 
 
-## Social and Cultural History of Byzantium and the Middle East
+## Social and Cultural History
 
 "Heretics, Dissidents, and Society: Narrating the Trial of John bar ʿAbdun."
 
@@ -219,7 +221,7 @@ _Yaḥyā ibn ʿAdī: Treatise on Divine Unity According to the Doctrine of the 
 > *Journal of the American Oriental Society* 137.2 (2017): 253–277.  
 > [[pub][Roberts-2017-JAOS-Sabians-pub]|[PDF][Roberts-2017-JAOS-Sabians-HC]]
 
-Book review:
+**book review** |
 Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest* (Cambridge University Press, 2016).
 
 > "The Paths and Memories Tying Antioch to Its 
@@ -228,7 +230,7 @@ Andrea De Giorgi, *Ancient Antioch from the Seleucid Era to the Islamic Conquest
 > [[pub][Roberts-2017-JRA-review-of-de-giorgi-pub]|[PDF][Roberts-2017-JRA-review-of-de-giorgi-HC]]
 
 
-Book review:
+**book review** |
 Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (American University in Cairo Press, 2012).  
 
 > "In Mecca’s Backyard,"
@@ -255,11 +257,15 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 > *Bulletin d’études orientales* 60 (2011; published May 2012): 145–160.  
 > [[pub][Roberts-2011-BEO60-Mansur-pub]|[PDF][Roberts-2011-BEO60-Mansur-HC]]
 
-Book review:
+**book review** |
 Rustam Shukurov, *Byzantine Ideas of Persia, 650--1461* (Routledge, 2023).
 
 > *The Byzantine Review* 6 (2024): 112--126.  
 > [[open access][Roberts-2024-ByzRev-rev-Shukurov-pub]|[PDF][Roberts-2024-ByzRev-rev-Shukurov]]
+
+(See also 
+"Byzantine Engagement with Islamicate Alchemy"
+[above](#alchemy-and-chemistry).)
 
 ## Mathematics
 
@@ -267,6 +273,7 @@ Rustam Shukurov, *Byzantine Ideas of Persia, 650--1461* (Routledge, 2023).
 
 > *Philological Encounters* 5.3--4 (2020): 308--352.  
 > [[pub][Roberts-2020-PHEN-pub]|[postprint][Roberts-2020-PHEN-postprint]|[PDF][Roberts-2020-PHEN-HC]]
+
 
 -------
 

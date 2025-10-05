@@ -12,11 +12,10 @@ Los Angeles, California
 <!-- <a itemprop="sameAs" content="https://orcid.org/0000-0002-6648-5392" href="https://orcid.org/0000-0002-6648-5392" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:.7em;margin-right:.5em;" alt="✺">orcid</a> -->
 [orcid](https://orcid.org/0000-0002-6648-5392) ]
 
-[ [GrAlchEd: Greek Alchemical Editions in Progress](https://gralched.hcommons.org/) ]
 
 # Publications
 
-by date | [by topic](pubtopics.html)
+_by kind_ | [_by topic_](pubtopics.html)
 
 ----
 
@@ -285,6 +284,10 @@ Timothy Power, *The Red Sea from Byzantium to the Caliphate: AD 500–1000* (Ame
 > "In Mecca’s Backyard,"
 > *Marginalia Review of Books*, April 29, 2014.  
 > [[open access][Roberts-2014-Marginalia-Red-Sea]]
+
+## Webpage
+
+[GrAlchEd: Greek Alchemical Editions in Progress](https://gralched.hcommons.org/) 
 
 -------
 
