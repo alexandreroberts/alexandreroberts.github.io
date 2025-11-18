@@ -25,6 +25,8 @@ Los Angeles, California
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2025-Isis-DisAlch-pub]: https://www.journals.uchicago.edu/doi/10.1086/738213
+
 [Roberts-2024-ByzRev-rev-Shukurov]: https://hcommons.org/deposits/item/hc:65447/
 
 [Roberts-2024-ByzRev-rev-Shukurov-pub]: https://doi.org/10.17879/byzrev-2024-5508
@@ -115,7 +117,8 @@ https://zenodo.org/record/4408536
 
 "Disentangling Alchemy."
 
-> _Isis_ 116.4 (forthcoming December 2025).
+> _Isis_ 116.4 (2025): 623--644.  
+> [[pub][Roberts-2025-Isis-DisAlch-pub]|[temporarily open access](https://www.journals.uchicago.edu/eprint/MJAAXIWZIRKIZYKDPJPA/full?redirectUri=/doi/epdf/10.1086/738213)]
 
 
 "Thinking about Chemistry in Byzantium and the Islamic World."

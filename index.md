@@ -25,6 +25,8 @@ _by kind_ | [_by topic_](pubtopics.html)
 
 [Roberts-WritingReadingGreek-preprint-2021-05-04]: https://doi.org/10.5281/zenodo.5149056
 
+[Roberts-2025-Isis-DisAlch-pub]: https://www.journals.uchicago.edu/doi/10.1086/738213
+
 [Roberts-2024-ByzRev-rev-Shukurov]: https://hcommons.org/deposits/item/hc:65447/
 
 [Roberts-2024-ByzRev-rev-Shukurov-pub]: https://doi.org/10.17879/byzrev-2024-5508
@@ -127,10 +129,6 @@ https://zenodo.org/record/4408536
 
 ### future
 
-"Disentangling Alchemy."
-
-> _Isis_ 116.4 (forthcoming December 2025).
-
 "Alchemy, History, and Myth in the Souda Lexicon."
 
 > In *Alchemy in Byzantium*, ed. Gerasimos Merianos
@@ -145,6 +143,14 @@ https://zenodo.org/record/4408536
 
 > In *Companion to John of Damascus*, ed. Ken Parry 
 > (Leiden: Brill; invited July 2020; submitted June 2022).
+
+### 2025 ###
+
+"Disentangling Alchemy."
+
+> _Isis_ 116.4 (2025): 623--644.  
+> [[pub][Roberts-2025-Isis-DisAlch-pub]|[temporarily open access](https://www.journals.uchicago.edu/eprint/MJAAXIWZIRKIZYKDPJPA/full?redirectUri=/doi/epdf/10.1086/738213)]
+
 
 ### 2023 ###
 
