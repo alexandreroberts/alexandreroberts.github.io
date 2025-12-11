@@ -118,7 +118,7 @@ https://zenodo.org/record/4408536
 "Disentangling Alchemy."
 
 > _Isis_ 116.4 (2025): 623--644.  
-> [[pub][Roberts-2025-Isis-DisAlch-pub]|[temporarily open access](https://www.journals.uchicago.edu/eprint/MJAAXIWZIRKIZYKDPJPA/full?redirectUri=/doi/epdf/10.1086/738213)]
+> [[open][Roberts-2025-Isis-DisAlch-pub]]
 
 
 "Thinking about Chemistry in Byzantium and the Islamic World."
