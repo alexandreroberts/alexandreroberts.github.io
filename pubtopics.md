@@ -118,7 +118,8 @@ https://zenodo.org/record/4408536
 "Disentangling Alchemy."
 
 > _Isis_ 116.4 (2025): 623--644.  
-> [[open][Roberts-2025-Isis-DisAlch-pub]]
+> [[open][Roberts-2025-Isis-DisAlch-pub]]  
+> [[interview about the article](https://hssonline.org/news/716508/Isis-December-2025---Author-Interview-Alexandre-Roberts.htm)]
 
 
 "Thinking about Chemistry in Byzantium and the Islamic World."
