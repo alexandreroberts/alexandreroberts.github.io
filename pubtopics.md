@@ -27,6 +27,8 @@ Los Angeles, California
 
 [Roberts-2025-Isis-DisAlch-pub]: https://www.journals.uchicago.edu/doi/10.1086/738213
 
+[Roberts-2025-Isis-DisAlch-pub-50-article-free]: https://www.journals.uchicago.edu/eprint/MJAAXIWZIRKIZYKDPJPA/full?redirectUri=/doi/epdf/10.1086/738213
+
 [Roberts-2024-ByzRev-rev-Shukurov]: https://hcommons.org/deposits/item/hc:65447/
 
 [Roberts-2024-ByzRev-rev-Shukurov-pub]: https://doi.org/10.17879/byzrev-2024-5508
@@ -118,7 +120,7 @@ https://zenodo.org/record/4408536
 "Disentangling Alchemy."
 
 > _Isis_ 116.4 (2025): 623--644.  
-> [[open][Roberts-2025-Isis-DisAlch-pub]]  
+> [[pub][Roberts-2025-Isis-DisAlch-pub]|[temporarily open][Roberts-2025-Isis-DisAlch-pub-50-article-free]]  
 > [[interview about the article](https://hssonline.org/news/716508/Isis-December-2025---Author-Interview-Alexandre-Roberts.htm)]
 
 
