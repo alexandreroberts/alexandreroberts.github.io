@@ -205,7 +205,7 @@ _The Book on Alums and Salts of Pseudo-Rāzī: The Arabic and Hebrew Traditions_
 Giovanni Mandolino,
 _Yaḥyā ibn ʿAdī: Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text, English Translation and Commentary_ (Brill, 2023).
 
-> *Church History* (2025).  
+> *Church History* 94.1 (2025): 139--141.  
 > [[pub](https://doi.org/10.1017/S0009640725101327)|[PDF](https://works.hcommons.org/records/w6fdd-9yn77)]
 
 
