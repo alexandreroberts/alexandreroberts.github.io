@@ -131,6 +131,13 @@ https://zenodo.org/record/4408536
 
 ### future
 
+"Oikonomia and Alconomie: The English Reception of Byzantine Chemical Terminology."
+
+> _Lost in transfer? Misunderstanding, Miscommunication, and the Production of Knowledge in Late Medieval and Early Modern Europe_,
+ed. Andrea Robiglio, Stefania Tutino, and Eva Del Soldato
+(contribution submitted August 2026).
+
+
 "Alchemy, History, and Myth in the Souda Lexicon."
 
 > In *Alchemy in Byzantium*, ed. Gerasimos Merianos
