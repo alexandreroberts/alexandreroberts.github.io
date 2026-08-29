@@ -117,6 +117,14 @@ https://zenodo.org/record/4408536
 
 ## Alchemy and Chemistry
 
+"Oikonomia and Alconomie: The English Reception of Byzantine Chemical Terminology."
+
+> In
+> _Lost in transfer? Misunderstanding, Miscommunication, and the Production of Knowledge in Late Medieval and Early Modern Europe_,
+> ed. Andrea Robiglio, Stefania Tutino, and Eva Del Soldato
+> (contribution submitted August 2026).
+
+
 "Disentangling Alchemy."
 
 > _Isis_ 116.4 (2025): 623--644.  
@@ -271,6 +279,8 @@ Rustam Shukurov, *Byzantine Ideas of Persia, 650--1461* (Routledge, 2023).
 
 (See also 
 "Byzantine Engagement with Islamicate Alchemy"
+and 
+"Oikonomia and Alconomie"
 [above](#alchemy-and-chemistry).)
 
 ## Mathematics
