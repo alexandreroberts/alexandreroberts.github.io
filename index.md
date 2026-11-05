@@ -274,7 +274,7 @@ Gabriele Ferrario,
 _The Book on Alums and Salts of Pseudo-Rāzī: The Arabic and Hebrew Traditions_
 (Routledge, 2024).
 
-> _British Journal for the History of Science_ (2025).    
+> _British Journal for the History of Science_ 59.1 (2025): 173--175.      
 > [[pub](https://doi.org/10.1017/S0007087425000263)|[PDF](https://works.hcommons.org/records/6wwt8-06572)]
 
 Giovanni Mandolino,
